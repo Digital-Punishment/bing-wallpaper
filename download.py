@@ -1,6 +1,7 @@
 
 import requests
 import re
+import os
 
 # Path to the README file
 readme_file_path = 'README.md'
@@ -28,5 +29,5 @@ image_urls = set(scrape_image_urls(readme_file_path))
 
 # Download each image
 for i, url in enumerate(image_urls):
-    file_name = url.split('OHR.')[1]
+    file_name = os.path.join("downloads", url.split('OHR.')[1])
     download_image(i, url, file_name)
