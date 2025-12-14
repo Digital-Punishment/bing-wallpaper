@@ -6,8 +6,13 @@ import os
 # Path to the README file
 readme_file_path = 'README.md'
 
+# Download folder
+download_to = "downloads"
+
 # Function to download images
 def download_image(i, url, file_name):
+    if not os.path.exists(os.path.join('./', download_to)):
+        os.makedirs(os.path.join('./', download_to))
     if os.path.exists(file_name):
         print(f"❎ [{i + 1}]: File exists {file_name}")
     else:
@@ -32,5 +37,5 @@ image_urls = set(scrape_image_urls(readme_file_path))
 
 # Download each image
 for i, url in enumerate(image_urls):
-    file_name = os.path.join("downloads", url.split('OHR.')[1])
+    file_name = os.path.join(download_to, url.split('OHR.')[1])
     download_image(i, url, file_name)
