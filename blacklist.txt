@@ -1,0 +1,2 @@
+#put names of blacklisted files here
+#each one on a new line
