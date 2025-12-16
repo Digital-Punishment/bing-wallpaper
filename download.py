@@ -12,20 +12,20 @@ download_to = "downloads/good"
 blacklisted_to = "downloads/bad"
 
 # Function to download images
-def download_image(i, url, folder_name, file_name):
+def download_image(i, total, url, folder_name, file_name):
     if not os.path.exists(os.path.join('./', folder_name)):
         os.makedirs(os.path.join('./', folder_name))
     full_name = os.path.join(folder_name, file_name)
     if os.path.exists(full_name):
-        print(f"❎ [{i + 1}]: File exists {full_name}")
+        print(f"❎ [{i + 1}/{total}]: File exists {full_name}")
     else:
         response = requests.get(url)
         if response.status_code == 200:
             with open(full_name, 'wb') as file:
                 file.write(response.content)
-            print(f"✅ [{i + 1}]: Downloaded {full_name}")
+            print(f"✅ [{i + 1}/{total}]: Downloaded {full_name}")
         else:
-            print(f"🥺 [{i + 1}]: Failed to download {url}")
+            print(f"🥺 [{i + 1}/{total}]: Failed to download {url}")
 # Function to scrape image URLs from README file
 def scrape_image_urls(file_path):
     with open(file_path, 'r') as file:
@@ -71,5 +71,5 @@ for i, url in enumerate(image_urls):
     folder_name = download_to
     if file_name in blacklisted_files:
         folder_name = blacklisted_to
-    download_image(i, url, folder_name, file_name)
+    download_image(i, len(image_urls), url, folder_name, file_name)
 print("😃 Done!")
