@@ -1,2 +1,7 @@
 #put names of blacklisted files here
 #each one on a new line
+
+
+
+HalloweenPorchAI_EN-US0776611565_UHD.jpg
+HwangmaesanAzaleas_EN-US0649441292_UHD.jpg
