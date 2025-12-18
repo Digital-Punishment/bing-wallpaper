@@ -17,7 +17,7 @@ def download_image(i, total, url, folder_name, file_name):
         os.makedirs(os.path.join('./', folder_name))
     full_name = os.path.join(folder_name, file_name)
     if os.path.exists(full_name):
-        print(f"❎ [{i + 1}/{total}]: File exists {full_name}")
+        print(f"🚫 [{i + 1}/{total}]: File exists {full_name}")
     else:
         response = requests.get(url)
         if response.status_code == 200:
@@ -25,7 +25,7 @@ def download_image(i, total, url, folder_name, file_name):
                 file.write(response.content)
             print(f"✅ [{i + 1}/{total}]: Downloaded {full_name}")
         else:
-            print(f"🥺 [{i + 1}/{total}]: Failed to download {url}")
+            print(f"🛑 [{i + 1}/{total}]: Failed to download {url}")
 # Function to scrape image URLs from README file
 def scrape_image_urls(file_path):
     with open(file_path, 'r') as file:
