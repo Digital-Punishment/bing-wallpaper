@@ -5,8 +5,9 @@ import os
 import time
 import datetime
 from urllib.parse import urljoin
+from download import scrape_image_urls
 
-wallpaper_list_file = "bing-wallpaper.md"
+wallpaperlist_file = "bing-wallpaper.md"
 bing_server = "https://cn.bing.com/"
 
 db_URL = "https://raw.githubusercontent.com/zigou23/Bing-Daily-Wallpaper/"
@@ -97,6 +98,7 @@ def parse_json(regions):
 
 # Generate a human readable list of wallpapers
 def generate_filecontent(wallpapers_list, resolutions):
+    image_urls = set(scrape_image_urls(wallpaperlist_file))
     content = "## Bing Wallpaper\n\n"
     for wallpaper in wallpapers_list:
         date = datetime.date(int(wallpaper['date'][:4]), int(wallpaper['date'][4:6]),int(wallpaper['date'][6:])) + datetime.timedelta(days=1)
@@ -108,19 +110,29 @@ def generate_filecontent(wallpapers_list, resolutions):
         resolution = ""
         for res in resolutions:
             wallpaper_URL = f"{urlbase}_{res}.jpg"
-            time.sleep(0.1)
-            response = requests.head(wallpaper_URL, timeout=5)
-            if response.status_code == 200:
+            if wallpaper_URL in image_urls:
                 resolution = res
+                print(f"✅ Record found in {wallpaperlist_file}: {urlbase}")
                 break
 
         if resolution == "":
-            print(f"👎 Wallpaper not found: {urlbase}")
+            for res in resolutions:
+                wallpaper_URL = f"{urlbase}_{res}.jpg"
+                time.sleep(0.1)
+                response = requests.head(wallpaper_URL, timeout=5)
+                if response.status_code == 200:
+                    resolution = res
+                    print(f"👍 Link to {resolution} file found: {urlbase}")
+                    break
+
+        if resolution == "":
+            print(f"👎 No links found: {urlbase}")
         else:
-            print(f"👍 {resolution} found for wallpaper: {urlbase}")
             content += f"{date}{reg}| [{copyright}]({urlbase}_{resolution}.jpg)\n\n"
     return content
 
-file_content = generate_filecontent(parse_json(bing_regions), bing_resolutions)
-with open(wallpaper_list_file, 'w') as file:
-    file.write(file_content)
+if __name__ == "__main__":
+    file_content = generate_filecontent(parse_json(bing_regions), bing_resolutions)
+    with open(wallpaperlist_file, 'w') as file:
+        file.write(file_content)
+    print(f"😃 {wallpaperlist_file} created!")

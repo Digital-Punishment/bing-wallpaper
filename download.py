@@ -5,7 +5,7 @@ import os
 import time
 
 # Path to the wallpapers and blacklist files
-readme_file_path = 'bing-wallpaper.md'
+wallpaperlist_file_path = 'bing-wallpaper.md'
 blacklist_file_path = 'blacklist.txt'
 
 # Download folders
@@ -29,7 +29,7 @@ def download_image(i, total, url, folder_name, file_name):
             print(f"✅ [{i + 1}/{total}]: Downloaded {full_name}")
         else:
             print(f"🛑 [{i + 1}/{total}]: Failed to download {url}")
-# Function to scrape image URLs from README file
+# Function to scrape image URLs from file
 def scrape_image_urls(file_path):
     with open(file_path, 'r') as file:
         content = file.read()
@@ -63,18 +63,21 @@ def sort_images(download_folder, blacklisted_folder, blacklist):
             os.rename(os.path.join(blacklisted_folder, file), os.path.join(download_folder, file))
             print(f"👍 Moved {file} to {download_folder}")
 
-# Scrape image URLs from the README file
-image_urls = set(scrape_image_urls(readme_file_path))
-blacklisted_files = set(scrape_image_names(blacklist_file_path))
+#allow import of functions from other files
+if __name__ == "__main__":
+    
+    # Scrape image URLs from the README file
+    image_urls = set(scrape_image_urls(wallpaperlist_file_path))
+    blacklisted_files = set(scrape_image_names(blacklist_file_path))
 
-# Sort downloaded files
-sort_images(download_dir, blacklisted_dir, blacklisted_files)
+    # Sort downloaded files
+    sort_images(download_dir, blacklisted_dir, blacklisted_files)
 
-# Download each image
-for i, url in enumerate(image_urls):
-    file_name = url.split('OHR.')[1]
-    folder_name = download_dir
-    if file_name in blacklisted_files:
-        folder_name = blacklisted_dir
-    download_image(i, len(image_urls), url, folder_name, file_name)
-print("😃 Done!")
+    # Download each image
+    for i, url in enumerate(image_urls):
+        file_name = url.split('OHR.')[1]
+        folder_name = download_dir
+        if file_name in blacklisted_files:
+            folder_name = blacklisted_dir
+        download_image(i, len(image_urls), url, folder_name, file_name)
+    print("😃 Done!")

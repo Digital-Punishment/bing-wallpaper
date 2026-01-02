@@ -6256,7 +6256,7 @@
 
 2022-04-28 [EN-GB] | [Dawn light on Eilean Na Mòine island, Loch Eilt, West Highlands (© Lilly Husbands/Offset)](https://cn.bing.com/th?id=OHR.EileanNaMoine_EN-GB5424366083_UHD.jpg)
 
-2026-01-02 [EN-IN] | [Arctic fox sleeping (© Chansak Joe/Getty Images)](https://cn.bing.com/th?id=OHR.NewYearFox_EN-IN0228812911_UHD.jpg)
+2026-01-03 [EN-IN] | [Aerial view of Venice, Italy (© Clement Leonard/Getty Images)](https://cn.bing.com/th?id=OHR.VeniceView_EN-IN1223901248_UHD.jpg)
 
 2025-12-29 [EN-IN] | [Aerial view of a sandy beach in Mangaluru, Karnataka (© Amith Nag Photography/Moment/Getty Images)](https://cn.bing.com/th?id=OHR.MangaloreBeach2025_EN-IN9427603327_UHD.jpg)
 
@@ -7461,6 +7461,8 @@
 2022-05-18 [FR-FR] | [Deux chaises sur la croisette, Cannes (© BEAUMONT Frédéric/Alamy)](https://cn.bing.com/th?id=OHR.Cannes22_FR-FR3521436026_UHD.jpg)
 
 2022-05-17 [FR-FR] | [Le court Philippe Chatrier au stade Roland-Garros, Paris (© CTK/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.RG2022_FR-FR3111283418_UHD.jpg)
+
+2026-01-03 [IT-IT] | [Branco di impala, Riserva naturale di Londolozi, Sudafrica (© Mint Images/Getty Images)](https://cn.bing.com/th?id=OHR.ImpalaRooibok_IT-IT2418246080_UHD.jpg)
 
 2026-01-01 [IT-IT] | [Capodanno, Venezia (© Marco Secchi/Collaboratore/Getty Images News)](https://cn.bing.com/th?id=OHR.AnnoNuovo_IT-IT2133696487_UHD.jpg)
 
