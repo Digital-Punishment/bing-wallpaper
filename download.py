@@ -18,6 +18,7 @@ def download_image(i, total, url, folder_name, file_name):
         os.makedirs(os.path.join('./', folder_name))
     full_name = os.path.join(folder_name, file_name)
     if os.path.exists(full_name):
+        time.sleep(0.01)
         print(f"🚫 [{i + 1}/{total}]: File exists {full_name}")
     else:
         time.sleep(0.1)
@@ -53,10 +54,12 @@ def sort_images(download_folder, blacklisted_folder, blacklist):
 
     for file in os.listdir(download_folder):
         if os.path.isfile(os.path.join(download_folder, file)) and file in blacklist:
+            time.sleep(0.01)
             os.rename(os.path.join(download_folder, file), os.path.join(blacklisted_folder, file))
             print(f"👎 Moved {file} to {blacklisted_folder}")
     for file in os.listdir(blacklisted_folder):
         if os.path.isfile(os.path.join(blacklisted_folder, file)) and file not in blacklist:
+            time.sleep(0.01)
             os.rename(os.path.join(blacklisted_folder, file), os.path.join(download_folder, file))
             print(f"👍 Moved {file} to {download_folder}")
 
