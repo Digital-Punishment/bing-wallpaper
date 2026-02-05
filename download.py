@@ -13,13 +13,16 @@ download_dir = "downloads/good"
 blacklisted_dir = "downloads/bad"
 
 # Function to download images
-def download_image(i, total, url, folder_name, file_name):
+def download_image(i, total, url, folder_name, file_name, need_cleanup):
+    if need_cleanup:
+        print('\033[2K', end='')
     if not os.path.exists(os.path.join('./', folder_name)):
         os.makedirs(os.path.join('./', folder_name))
     full_name = os.path.join(folder_name, file_name)
     if os.path.exists(full_name):
         time.sleep(0.01)
-        print(f"🚫 [{i + 1}/{total}]: File exists {full_name}")
+        print(f"🚫 [{i + 1}/{total}]: File exists {full_name}", end="\r")
+        need_cleanup = True
     else:
         time.sleep(0.1)
         response = requests.get(url)
@@ -27,8 +30,11 @@ def download_image(i, total, url, folder_name, file_name):
             with open(full_name, 'wb') as file:
                 file.write(response.content)
             print(f"✅ [{i + 1}/{total}]: Downloaded {full_name}")
+            need_cleanup = False
         else:
             print(f"🛑 [{i + 1}/{total}]: Failed to download {url}")
+            need_cleanup = False
+    return need_cleanup
 # Function to scrape image URLs from file
 def scrape_image_urls(file_path):
     with open(file_path, 'r') as file:
@@ -65,7 +71,6 @@ def sort_images(download_folder, blacklisted_folder, blacklist):
 
 #allow import of functions from other files
 if __name__ == "__main__":
-    
     # Scrape image URLs from the README file
     image_urls = set(scrape_image_urls(wallpaperlist_file_path))
     blacklisted_files = set(scrape_image_names(blacklist_file_path))
@@ -74,10 +79,13 @@ if __name__ == "__main__":
     sort_images(download_dir, blacklisted_dir, blacklisted_files)
 
     # Download each image
+    need_cleanup = False
     for i, url in enumerate(image_urls):
         file_name = url.split('OHR.')[1]
         folder_name = download_dir
         if file_name in blacklisted_files:
             folder_name = blacklisted_dir
-        download_image(i, len(image_urls), url, folder_name, file_name)
+        need_cleanup = download_image(i, len(image_urls), url, folder_name, file_name, need_cleanup)
+    if need_cleanup:
+        print('\033[2K', end='')
     print("😃 Done!")

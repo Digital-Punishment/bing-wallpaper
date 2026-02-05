@@ -5598,6 +5598,14 @@
 
 2018-06-07 | [Feature Attraction: 85 years at the drive-in (© Martha Holmes/Time Life Pictures/Getty Images)](https://cn.bing.com/th?id=OHR.FlyinDrivein_EN-US11097970692_1920x1080.jpg)
 
+2026-02-05 [EN-CA] | [Red kite in snow (© Carl Mckie/500px/Getty Images)](https://cn.bing.com/th?id=OHR.BigGardenBirdwatch2026_EN-CA7577460062_UHD.jpg)
+
+2026-02-02 [EN-CA] | [Colourful house in Olinda, Brazil (© Robert Pekar/Alamy)](https://cn.bing.com/th?id=OHR.Olinda_EN-CA6673268018_UHD.jpg)
+
+2026-01-31 [EN-CA] | ['Kimono' sculpted by Hiroaki Kimura and Masaki Takahashi of Japan, Winterlude 2010 (© PensiveDragon/Shutterstock)](https://cn.bing.com/th?id=OHR.WinterludeKimono_EN-CA4738768244_UHD.jpg)
+
+2026-01-20 [EN-CA] | [Frozen Abraham Lake, Alberta (© Luis F Arevalo/Getty Images)](https://cn.bing.com/th?id=OHR.BubblesAbraham_EN-CA5502622883_UHD.jpg)
+
 2026-01-01 [EN-CA] | [New Year's Eve fireworks in Toronto (© LeoPatrizi/Getty Images)](https://cn.bing.com/th?id=OHR.NYEToronto_EN-CA2554609222_UHD.jpg)
 
 2025-12-26 [EN-CA] | [Christmas trees in Old Quebec (© Jean Surprenant/Getty Images)](https://cn.bing.com/th?id=OHR.XmasTree_EN-CA1915827603_UHD.jpg)
@@ -5932,6 +5940,10 @@
 
 2022-05-02 [EN-CA] | [Laburnum (golden chain) trees and purple alliums in bloom at VanDusen Botanical Garden, Vancouver (© Greg Vaughn/Alamy)](https://cn.bing.com/th?id=OHR.VanBlooms_EN-CA0754129800_UHD.jpg)
 
+2026-01-26 [EN-GB] | [Northumberland, England (© Design Pics/John Short/Getty Images)](https://cn.bing.com/th?id=OHR.Northumberland2025_EN-GB5155433831_UHD.jpg)
+
+2026-01-19 [EN-GB] | [Scots pine forest, Ashdown Forest, England (© James Warwick/The Image Bank/Getty Images)](https://cn.bing.com/th?id=OHR.PoohDay2026_EN-GB2644442653_UHD.jpg)
+
 2026-01-01 [EN-GB] | [National Monument of Scotland, Edinburgh (© Serge_Bertasius/iStock/Getty Images)](https://cn.bing.com/th?id=OHR.Hogmanay2025_EN-GB7784153227_UHD.jpg)
 
 2025-12-15 [EN-GB] | [Royal Pavilion, Brighton, England (© by Andrea Pucci/Moment/Getty Images)](https://cn.bing.com/th?id=OHR.BrightonRoyalPavilion2025_EN-GB0413792609_UHD.jpg)
@@ -5945,8 +5957,6 @@
 2025-11-06 [EN-GB] | [Guy Fawkes Night fireworks at Glasgow Green, Scotland (© mountaintreks/Shutterstock)](https://cn.bing.com/th?id=OHR.GuyFawkesNight2025_EN-GB4093349756_UHD.jpg)
 
 2025-10-27 [EN-GB] | [Clock tower of Emmanuel College, University of Cambridge, England (© Geography Photos/Universal Images Group/Getty Images)](https://cn.bing.com/th?id=OHR.DSTEnds2025_EN-GB3762675856_UHD.jpg)
-
-2025-10-13 [EN-GB] | [Starling murmuration over the ruins of Brighton's West Pier, England (© Philip Reeve/Photodisc/Getty Images)](https://cn.bing.com/th?id=OHR.StarlingBrighton2025_EN-GB5939254897_UHD.jpg)
 
 2025-10-02 [EN-GB] | [Waterfall in the Cairngorms National Park, Scotland (© JohnFScott/iStock/Getty Images)](https://cn.bing.com/th?id=OHR.NationalPoetryDay2025_EN-GB3464467927_UHD.jpg)
 
@@ -6256,7 +6266,11 @@
 
 2022-04-28 [EN-GB] | [Dawn light on Eilean Na Mòine island, Loch Eilt, West Highlands (© Lilly Husbands/Offset)](https://cn.bing.com/th?id=OHR.EileanNaMoine_EN-GB5424366083_UHD.jpg)
 
-2026-01-03 [EN-IN] | [Aerial view of Venice, Italy (© Clement Leonard/Getty Images)](https://cn.bing.com/th?id=OHR.VeniceView_EN-IN1223901248_UHD.jpg)
+2026-02-06 [EN-IN] | [Salt evaporation ponds on the island of Gozo, Malta (© Marius Roman/Getty Images)](https://cn.bing.com/th?id=OHR.MaltaSalt_EN-IN2232887913_UHD.jpg)
+
+2026-01-27 [EN-IN] | [Balloons released during the 2021 Republic Day parade in New Delhi (© T. Narayan/Bloomberg/Getty Images)](https://cn.bing.com/th?id=OHR.RepublicDay2026_EN-IN4289196268_UHD.jpg)
+
+2026-01-22 [EN-IN] | [Sand dunes in the Thar Desert, Rajasthan (© f9photos/iStock/Getty Images)](https://cn.bing.com/th?id=OHR.RajasthanSandDunes2025_EN-IN0938855919_UHD.jpg)
 
 2025-12-29 [EN-IN] | [Aerial view of a sandy beach in Mangaluru, Karnataka (© Amith Nag Photography/Moment/Getty Images)](https://cn.bing.com/th?id=OHR.MangaloreBeach2025_EN-IN9427603327_UHD.jpg)
 
@@ -6579,6 +6593,12 @@
 2022-05-03 [EN-IN] | [Taj Mahal with Milky Way in the background in Agra, India (© Getty Images)](https://cn.bing.com/th?id=OHR.TajMahalSky_EN-IN2591010322_UHD.jpg)
 
 2022-04-29 [EN-IN] | [Elephant herd walking the plains in Jim Corbett National Park in India (© Shutterstock)](https://cn.bing.com/th?id=OHR.ElephantJimCorbett_EN-IN1246798617_UHD.jpg)
+
+2026-02-05 [DE-DE] | [Speicherstadt in der Dämmerung, Hamburg (© bluejayphoto/Getty Images)](https://cn.bing.com/th?id=OHR.HamburgSpeicherstadt_DE-DE2204805313_UHD.jpg)
+
+2026-01-23 [DE-DE] | [Mimram-Fußgängerbrücke über den Rhein zwischen Frankreich und Deutschland (© Leonid Andronov/Alamy)](https://cn.bing.com/th?id=OHR.Mimramfootbridge_DE-DE7428215729_UHD.jpg)
+
+2026-01-10 [DE-DE] | [Eurasische Luchse beim Spielen im Schnee im Wald, Bayern (© imagebroker/david & micha sheldon/Getty Images)](https://cn.bing.com/th?id=OHR.LynxBavariaSnow_DE-DE0416366629_UHD.jpg)
 
 2026-01-02 [DE-DE] | [Frostbedeckte Bäume entlang des Flusses Loisach, Kochelsee, Bayern (© Malorny/Getty Images)](https://cn.bing.com/th?id=OHR.LoisachWinter_DE-DE1878852056_UHD.jpg)
 
@@ -6976,6 +6996,16 @@
 
 2022-05-02 [DE-DE] | [Blühende Kirschbäume an der Binnenalster, Hamburg (© Kerstin Bittner/Westend61/Offset)](https://cn.bing.com/th?id=OHR.KirschblueteHamburg_DE-DE6208501886_UHD.jpg)
 
+2026-01-27 [ES-ES] | [Ochagavía cubierta de nieve, Navarra, España (© PhotosTime/Getty Images)](https://cn.bing.com/th?id=OHR.Navarra_ES-ES9772390059_UHD.jpg)
+
+2026-01-24 [ES-ES] | [Luces de Toledo encendidas tras una tormenta de nieve (© Cavan Images/Getty Images)](https://cn.bing.com/th?id=OHR.Toledo_ES-ES4779443125_UHD.jpg)
+
+2026-01-22 [ES-ES] | [Palacio de Cristal del Retiro, Madrid, España (© All rights reserved - Copyright/Getty Images)](https://cn.bing.com/th?id=OHR.FITUR_ES-ES6773132633_UHD.jpg)
+
+2026-01-18 [ES-ES] | [Faro de Punta Nati, Ciudadela, Menorca, España (© Jorge Garcia Argazkiak/Getty Images)](https://cn.bing.com/th?id=OHR.Menorca_ES-ES6251409346_UHD.jpg)
+
+2026-01-07 [ES-ES] | [Reyes Magos, Sevilla, Andalucía (© Carol La Rosa/ShutterStock)](https://cn.bing.com/th?id=OHR.ReyesMagos_ES-ES2955520279_UHD.jpg)
+
 2026-01-01 [ES-ES] | [Reloj de la Puerta del Sol antes de Nochevieja, Madrid (© Pablo Blazquez Dominguez/Getty Images)](https://cn.bing.com/th?id=OHR.NewYearES_ES-ES0875645687_UHD.jpg)
 
 2025-12-25 [ES-ES] | [Canto de la Sibila, Catedral-Basílica de Santa María de Mallorca, Islas Baleares, España (© Daniel OUDIN/Alamy)](https://cn.bing.com/th?id=OHR.SibylSongMallorca_ES-ES5129981423_UHD.jpg)
@@ -7114,9 +7144,17 @@
 
 2024-08-04 [ES-ES] | [Atardecer en Ribadesella, Asturias, España (© StockPhotoAstur/iStock/GettyImagesPlus)](https://cn.bing.com/th?id=OHR.DescensodelSella_ES-ES4018014092_UHD.jpg)
 
-2026-01-01 [FR-FR] | [Le nouvel an à Paris, France (© Kiran Ridley/Getty Images)](https://cn.bing.com/th?id=OHR.FireworksParis_FR-FR0850151117_UHD.jpg)
+2026-02-03 [FR-FR] | [Le phare de Kermorvan au coucher de soleil, Bretagne, France (© Fisfra/Getty Images)](https://cn.bing.com/th?id=OHR.BretagneCrepe_FR-FR4282491151_UHD.jpg)
 
-2025-12-27 [FR-FR] | [Nuuk, Groenland (© nevereverro/Getty Images)](https://cn.bing.com/th?id=OHR.NuukGreenland_FR-FR4321343444_UHD.jpg)
+2026-01-27 [FR-FR] | [Une mésange bleue en hiver (© Marc Andreu/Getty Images)](https://cn.bing.com/th?id=OHR.BluetitWinter_FR-FR1512662576_UHD.jpg)
+
+2026-01-17 [FR-FR] | [Cerf cachés dans la forêt (© AB Photography/Getty images)](https://cn.bing.com/th?id=OHR.DeerWinter_FR-FR0583142086_UHD.jpg)
+
+2026-01-10 [FR-FR] | [Coucher de soleil à Bonifacio, Corse, France (© Wirestock/Getty Images)](https://cn.bing.com/th?id=OHR.CorsicaDay_FR-FR4522810421_UHD.jpg)
+
+2026-01-07 [FR-FR] | [Château de Versailles, France (© Mistervlad/Shutterstock)](https://cn.bing.com/th?id=OHR.EpiphanyDay_FR-FR4715294698_UHD.jpg)
+
+2026-01-01 [FR-FR] | [Le nouvel an à Paris, France (© Kiran Ridley/Getty Images)](https://cn.bing.com/th?id=OHR.FireworksParis_FR-FR0850151117_UHD.jpg)
 
 2025-12-21 [FR-FR] | [Cirque de Mafate, Dos d'Ane, Île de la Réunion (© Gael Fontaine/Alamy)](https://cn.bing.com/th?id=OHR.FetNav_FR-FR1160112574_UHD.jpg)
 
@@ -7462,7 +7500,15 @@
 
 2022-05-17 [FR-FR] | [Le court Philippe Chatrier au stade Roland-Garros, Paris (© CTK/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.RG2022_FR-FR3111283418_UHD.jpg)
 
-2026-01-03 [IT-IT] | [Branco di impala, Riserva naturale di Londolozi, Sudafrica (© Mint Images/Getty Images)](https://cn.bing.com/th?id=OHR.ImpalaRooibok_IT-IT2418246080_UHD.jpg)
+2026-01-30 [IT-IT] | [Merlo tra frutti di bosco (© Paolino Massimiliano Manuel/iStock/Getty Images)](https://cn.bing.com/th?id=OHR.ItalyBlackbird_IT-IT4018019243_UHD.jpg)
+
+2026-01-25 [IT-IT] | [Torre di Pisa, Pisa, Toscana (© seng chye teo/Moment)](https://cn.bing.com/th?id=OHR.PisaTower_IT-IT3619940805_UHD.jpg)
+
+2026-01-18 [IT-IT] | [Vista aerea di Napoli da Piazza del Plebiscito (© Aerial_Views/E+)](https://cn.bing.com/th?id=OHR.WorldPizza_IT-IT4174875702_UHD.jpg)
+
+2026-01-13 [IT-IT] | [Cratere nel Parco Nazionale dell'Etna, Catania, Sicilia (© PATMALUPHOTO/Adobe Stock)](https://cn.bing.com/th?id=OHR.EtnaSiciliaNeve_IT-IT1228064958_UHD.jpg)
+
+2026-01-07 [IT-IT] | [Città Alta di Bergamo avvolta dalla nebbia, Lombardia (© Gambarini Gianandrea/Shutterstock)](https://cn.bing.com/th?id=OHR.BefanaItalia_IT-IT3087185120_UHD.jpg)
 
 2026-01-01 [IT-IT] | [Capodanno, Venezia (© Marco Secchi/Collaboratore/Getty Images News)](https://cn.bing.com/th?id=OHR.AnnoNuovo_IT-IT2133696487_UHD.jpg)
 
@@ -7785,6 +7831,14 @@
 2022-06-23 [IT-IT] | [Fontanon di Goriuda (© Federica Cattaruzzi/Shutterstock)](https://cn.bing.com/th?id=OHR.FontanonGoriuda_IT-IT6720392674_UHD.jpg)
 
 2022-06-05 [IT-IT] | [Sentieri aggrovigliati di via Krupp, Capri (© Mikolajn/Getty Images)](https://cn.bing.com/th?id=OHR.CapriViaKrupp_IT-IT4698989617_UHD.jpg)
+
+2026-02-05 [JA-JP] | [梅の枝に止まるメジロ (© naotoshinkai/Getty Images)](https://cn.bing.com/th?id=OHR.Risshun2026_JA-JP6581085415_UHD.jpg)
+
+2026-02-01 [JA-JP] | [ライトアップされた氷像, 北海道 千歳市 (© Hide's photos/Shutterstock)](https://cn.bing.com/th?id=OHR.IceFestival2026_JA-JP1189462193_UHD.jpg)
+
+2026-01-21 [JA-JP] | [雪に覆われた星峠の棚田, 新潟県 十日町市 (© solakoudai/Shutterstock)](https://cn.bing.com/th?id=OHR.Daikan2026_JA-JP0917583221_UHD.jpg)
+
+2026-01-13 [JA-JP] | [ガーラ湯沢スキー場, 新潟県 (© Metta Bunkeaw/Alamy)](https://cn.bing.com/th?id=OHR.SkiDay2026_JA-JP1055394608_UHD.jpg)
 
 2026-01-02 [JA-JP] | [えびす岩・大黒岩, 北海道 (© Ambling Images/Alamy)](https://cn.bing.com/th?id=OHR.NewYearSunrise2026_JA-JP4680541723_UHD.jpg)
 
@@ -8122,6 +8176,14 @@
 
 2022-05-03 [JA-JP] | [和束の茶畑, 京都 (© Tuul and Bruno Morandi/Alamy Stock)](https://cn.bing.com/th?id=OHR.Hatchju22_JA-JP1631111050_UHD.jpg)
 
+2026-01-26 [PT-BR] | [Ponte Estaiada, São Paulo, SP (© Carlos Alkmin/Getty images)](https://cn.bing.com/th?id=OHR.AnniversarySP_PT-BR3102321116_UHD.jpg)
+
+2026-01-20 [PT-BR] | [Praia de Alter do Chão, Santarém, Pará (© Ricardo Lima/Getty Images)](https://cn.bing.com/th?id=OHR.AlterPara_PT-BR8119560973_UHD.jpg)
+
+2026-01-16 [PT-BR] | [Fitas do Bonfim em Salvador, Bahia (© Lazyllama/Alamy)](https://cn.bing.com/th?id=OHR.Bonfim_PT-BR7860220146_UHD.jpg)
+
+2026-01-08 [PT-BR] | [Pôr do sol em Fernando de Noronha (© Stephanie Kenner/Getty Images)](https://cn.bing.com/th?id=OHR.NoronhaSunset_PT-BR9160496041_UHD.jpg)
+
 2026-01-01 [PT-BR] | [Fogos de artifício na praia de Copacabana, Rio de Janeiro (© BrasilNut1/Getty Images)](https://cn.bing.com/th?id=OHR.AnoNovo_PT-BR5981161158_UHD.jpg)
 
 2025-12-26 [PT-BR] | [Árvore de Natal na cidade do Rio de Janeiro (© Ruy Barbosa Pinto/Getty Images)](https://cn.bing.com/th?id=OHR.XmasRio_PT-BR9436214235_UHD.jpg)
@@ -8259,6 +8321,8 @@
 2024-08-12 [PT-BR] | [Garça-tigre-ruiva (Tigrisoma lineatum) adulta e filhote no ninho, Mato Grosso, Pantanal (© Ben Cranke/Minden)](https://cn.bing.com/th?id=OHR.DiadosPais_PT-BR1045421907_UHD.jpg)
 
 2024-08-05 [PT-BR] | [Diversos Preguiças-de-três-dedos, Amazônia, Brasil (© Gerald & Marc/Superstock)](https://cn.bing.com/th?id=OHR.DiaInternacionaldosAvos_PT-BR2289016069_UHD.jpg)
+
+2026-01-21 [ZH-CN] | [栖息在树枝上的北长尾山雀，大庆市，中国黑龙江省 (© Visual China Group/Getty Images)](https://cn.bing.com/th?id=OHR.TheGreatColdY25_ZH-CN7239762815_UHD.jpg)
 
 2025-12-22 [ZH-CN] | [美丽的雾凇景色，大庆市，黑龙江省，中国 (© Dashu Xinganling/shutterstock)](https://cn.bing.com/th?id=OHR.WintersolsticeY25_ZH-CN6462419684_UHD.jpg)
 
