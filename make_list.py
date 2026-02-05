@@ -33,7 +33,7 @@ bing_regions = [
 
 # Image resolutions to check for
 bing_resolutions = [
-    "UHD", # (3840×2160) 4K Ultra HD
+    "UHD", # (3840x2160) 4K Ultra HD
     "1920x1080", # Full HD
     # "1366x768", # HD
     # "1280x720", # HD 720p
@@ -100,6 +100,7 @@ def parse_json(regions):
 def generate_filecontent(wallpapers_list, resolutions):
     image_urls = set(scrape_image_urls(wallpaperlist_file))
     content = "## Bing Wallpaper\n\n"
+    need_cleanup = False
     for wallpaper in wallpapers_list:
         date = datetime.date(int(wallpaper['date'][:4]), int(wallpaper['date'][4:6]),int(wallpaper['date'][6:])) + datetime.timedelta(days=1)
         urlbase = wallpaper['urlbase'].replace("https://bing.com/", bing_server).replace("https://www.bing.com/", bing_server)
@@ -108,11 +109,15 @@ def generate_filecontent(wallpapers_list, resolutions):
         reg = " " if reg == "EN-US" else f" [{reg}] "
 
         resolution = ""
+
+        if need_cleanup:
+            print('\033[2K', end='')
         for res in resolutions:
             wallpaper_URL = f"{urlbase}_{res}.jpg"
             if wallpaper_URL in image_urls:
                 resolution = res
-                print(f"✅ Record found in {wallpaperlist_file}: {urlbase}")
+                print(f"✅ Record found in {wallpaperlist_file}: {urlbase}", end="\r")
+                need_cleanup = True
                 break
 
         if resolution == "":
@@ -123,12 +128,17 @@ def generate_filecontent(wallpapers_list, resolutions):
                 if response.status_code == 200:
                     resolution = res
                     print(f"👍 Link to {resolution} file found: {urlbase}")
+                    need_cleanup = False
                     break
 
         if resolution == "":
-            print(f"👎 No links found: {urlbase}")
+            print(f"👎 No links found: {urlbase}", end="\r")
+            need_cleanup = True
         else:
             content += f"{date}{reg}| [{copyright}]({urlbase}_{resolution}.jpg)\n\n"
+
+    if need_cleanup:
+        print('\033[2K', end='')
     return content
 
 if __name__ == "__main__":
