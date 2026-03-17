@@ -24,14 +24,17 @@ def download_image(i, total, url, folder_name, file_name, need_cleanup):
         print(f"🚫 [{i + 1}/{total}]: File exists {full_name}", end="\r")
         need_cleanup = True
     else:
+        print(f"✅ [{i + 1}/{total}]: Downloading {full_name}", end="\r")
         time.sleep(0.1)
         response = requests.get(url)
         if response.status_code == 200:
             with open(full_name, 'wb') as file:
                 file.write(response.content)
+                print('\033[2K', end='')
             print(f"✅ [{i + 1}/{total}]: Downloaded {full_name}")
             need_cleanup = False
         else:
+            print('\033[2K', end='')
             print(f"🛑 [{i + 1}/{total}]: Failed to download {url}")
             need_cleanup = False
     return need_cleanup
