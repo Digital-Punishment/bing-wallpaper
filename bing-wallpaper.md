@@ -6056,6 +6056,12 @@
 
 2018-06-07 | [Feature Attraction: 85 years at the drive-in (© Martha Holmes/Time Life Pictures/Getty Images)](https://cn.bing.com/th?id=OHR.FlyinDrivein_EN-US11097970692_1920x1080.jpg)
 
+2026-04-17 [EN-CA] | [Blooming lupines in Newfoundland (© Nature, Parks/Outdoor/Shutterstock)](https://cn.bing.com/th?id=OHR.Wildflowerbloom_EN-CA6661555631_UHD.jpg)
+
+2026-04-12 [EN-CA] | [A canopy of cherry blossoms in Stanley Park, Vancouver (© WendyNordvikCarr/Getty Images)](https://cn.bing.com/th?id=OHR.StanleySakura_EN-CA3455290957_UHD.jpg)
+
+2026-03-26 [EN-CA] | [Pine trees reflected in the Forgetmenot Pond in Kananaskis Country, Alberta (© chinaface/Getty images)](https://cn.bing.com/th?id=OHR.AlbertaSnowMts_EN-CA2560376751_UHD.jpg)
+
 2026-03-17 [EN-CA] | [Aurora over Spirit Island on Maligne Lake, Jasper National Park, Alberta (© Mumemories/istock/Getty Images)](https://cn.bing.com/th?id=OHR.AuroraIsland_EN-CA8332911364_UHD.jpg)
 
 2026-03-02 [EN-CA] | [Snowy owl near the Canadian Rockies (© www.harshadventure.com/Moment/Getty Images)](https://cn.bing.com/th?id=OHR.OwlonGuard_EN-CA7496212614_UHD.jpg)
@@ -6404,9 +6410,13 @@
 
 2022-05-02 [EN-CA] | [Laburnum (golden chain) trees and purple alliums in bloom at VanDusen Botanical Garden, Vancouver (© Greg Vaughn/Alamy)](https://cn.bing.com/th?id=OHR.VanBlooms_EN-CA0754129800_UHD.jpg)
 
-2026-03-16 [EN-GB] | [A robin feeding its chick, Netherlands (© CreativeNature_nl/iStock/Getty Images)](https://cn.bing.com/th?id=OHR.MotheringSunday2026_EN-GB9211202468_UHD.jpg)
+2026-04-18 [EN-GB] | [Moai statue quarry, Rano Raraku, Easter Island, Chile (© Gavin Hellier/Alamy)](https://cn.bing.com/th?id=OHR.MaoiStatues_EN-GB2286908744_UHD.jpg)
 
-2026-03-09 [EN-GB] | [Cherry blossoms at Tom McCall Waterfront Park, Portland, Oregon, United States (© Eric Vogt/Tandem Stills + Motion)](https://cn.bing.com/th?id=OHR.PortlandBlossoms_EN-GB6516927034_UHD.jpg)
+2026-04-04 [EN-GB] | [Dolbadarn Castle, Llanberis, Snowdonia National Park, Wales (© Allan Hartley/Alamy)](https://cn.bing.com/th?id=OHR.NPFortnight2026_EN-GB6135344631_UHD.jpg)
+
+2026-03-30 [EN-GB] | [Liberty Clock, London, England (© Dukas/Universal Images Group/Getty Images)](https://cn.bing.com/th?id=OHR.BSTStarts2026_EN-GB5752947353_UHD.jpg)
+
+2026-03-16 [EN-GB] | [A robin feeding its chick, Netherlands (© CreativeNature_nl/iStock/Getty Images)](https://cn.bing.com/th?id=OHR.MotheringSunday2026_EN-GB9211202468_UHD.jpg)
 
 2026-03-02 [EN-GB] | [St Davids Cathedral, Pembrokeshire, Wales (© Terence Waeland/Alamy)](https://cn.bing.com/th?id=OHR.StDavidsDay2026_EN-GB5978747461_UHD.jpg)
 
@@ -6737,6 +6747,10 @@
 2022-05-10 [EN-GB] | [Grey seal with laughing expression on a stony beach in Norfolk, England (© the_guitar_mann/iStock/Getty Images Plus/Getty Images)](https://cn.bing.com/th?id=OHR.LaughingSeal_EN-GB7827062892_UHD.jpg)
 
 2022-04-28 [EN-GB] | [Dawn light on Eilean Na Mòine island, Loch Eilt, West Highlands (© Lilly Husbands/Offset)](https://cn.bing.com/th?id=OHR.EileanNaMoine_EN-GB5424366083_UHD.jpg)
+
+2026-04-15 [EN-IN] | [Ambedkar Memorial Park, Lucknow, Uttar Pradesh (© Varun Kumar Tiwari/iStock/Getty Images)](https://cn.bing.com/th?id=OHR.AmbedkarJayanti2026_EN-IN3641683791_UHD.jpg)
+
+2026-04-02 [EN-IN] | [The Great Stupa at Sanchi, Madhya Pradesh (© Dmitry Rukhlenko - Photos of India/Alamy)](https://cn.bing.com/th?id=OHR.SanchiMP_EN-IN5100905412_UHD.jpg)
 
 2026-03-09 [EN-IN] | [Akbar's tomb, Agra, Uttar Pradesh (© zeelichsheng/Shutterstock)](https://cn.bing.com/th?id=OHR.AkbarAgra_EN-IN0901638109_UHD.jpg)
 
@@ -7069,6 +7083,14 @@
 2022-05-03 [EN-IN] | [Taj Mahal with Milky Way in the background in Agra, India (© Getty Images)](https://cn.bing.com/th?id=OHR.TajMahalSky_EN-IN2591010322_UHD.jpg)
 
 2022-04-29 [EN-IN] | [Elephant herd walking the plains in Jim Corbett National Park in India (© Shutterstock)](https://cn.bing.com/th?id=OHR.ElephantJimCorbett_EN-IN1246798617_UHD.jpg)
+
+2026-04-19 [DE-DE] | [Eingangsbereich des Kölner Doms, Nordrhein‑Westfalen (© ALFSnaiper/Getty Images)](https://cn.bing.com/th?id=OHR.CathedralCologne_DE-DE0399722778_UHD.jpg)
+
+2026-04-14 [DE-DE] | [Zilpzalp, Deutschland (© Andyworks/Getty Images)](https://cn.bing.com/th?id=OHR.ChiffchaffSpring_DE-DE4997065919_UHD.jpg)
+
+2026-04-06 [DE-DE] | [Bunt bemalte sorbische Ostereier aus Deutschland (© Mark Poltermann/Getty Images)](https://cn.bing.com/th?id=OHR.SorbianEasterEggs_DE-DE8747014000_UHD.jpg)
+
+2026-03-25 [DE-DE] | [Drohnenaufnahme des Peilturms am Kap Arkona, Rügen, Mecklenburg‑Vorpommern (© Stefan Dinse/Getty Images)](https://cn.bing.com/th?id=OHR.KapArkonaRuegen_DE-DE8954793398_UHD.jpg)
 
 2026-03-16 [DE-DE] | [Königssee bei Schönau am Königssee, Bayern (© EyeEm Mobile GmbH/Getty Images)](https://cn.bing.com/th?id=OHR.KoenigsseeFog_DE-DE0451394349_UHD.jpg)
 
@@ -7484,6 +7506,14 @@
 
 2022-05-02 [DE-DE] | [Blühende Kirschbäume an der Binnenalster, Hamburg (© Kerstin Bittner/Westend61/Offset)](https://cn.bing.com/th?id=OHR.KirschblueteHamburg_DE-DE6208501886_UHD.jpg)
 
+2026-04-14 [ES-ES] | [Cañón Rojo de Teruel, Aragón (© hdibanez/Getty Images)](https://cn.bing.com/th?id=OHR.TeruelSpain_ES-ES8314942173_UHD.jpg)
+
+2026-04-11 [ES-ES] | [La Alhambra vista desde el Albaicín, Granada, Andalucía (© Antonio Violi/Alamy)](https://cn.bing.com/th?id=OHR.AlhambraGranada_ES-ES7908676665_UHD.jpg)
+
+2026-03-30 [ES-ES] | [Catedral de Sevilla, Andalucía (© sedmak/Getty Images)](https://cn.bing.com/th?id=OHR.Sevillaweek_ES-ES1707696944_UHD.jpg)
+
+2026-03-21 [ES-ES] | [Abubilla descansando sobre una piedra (© Brais Seara/Getty Images)](https://cn.bing.com/th?id=OHR.Equinox_ES-ES5576771883_UHD.jpg)
+
 2026-03-16 [ES-ES] | [Vista de las Torres de Serranos durante La Crida de las Fallas, Valencia (© SOPA Images/Getty Images)](https://cn.bing.com/th?id=OHR.FallasValencia_ES-ES2854700408_UHD.jpg)
 
 2026-03-11 [ES-ES] | [Zumaia, Guipúzcoa, País Vasco (© David González Rebollo/Getty Images)](https://cn.bing.com/th?id=OHR.Zumaia_ES-ES4174062610_UHD.jpg)
@@ -7641,6 +7671,16 @@
 2024-08-05 [ES-ES] | [Romería Vikinga, Galicia (© Pablo Charlón/GettyImages)](https://cn.bing.com/th?id=OHR.RomeriaVikinga_ES-ES4247544127_UHD.jpg)
 
 2024-08-04 [ES-ES] | [Atardecer en Ribadesella, Asturias, España (© StockPhotoAstur/iStock/GettyImagesPlus)](https://cn.bing.com/th?id=OHR.DescensodelSella_ES-ES4018014092_UHD.jpg)
+
+2026-04-19 [FR-FR] | [Vue aérienne du Viaduc de Millau (© Sergi Reboredo/Alamy)](https://cn.bing.com/th?id=OHR.MillauViaductFrance_FR-FR3718442345_UHD.jpg)
+
+2026-04-12 [FR-FR] | [Le Trocadéro et la Tour Eiffel à l’aube, Paris (© Alexander Spatari/Getty Images)](https://cn.bing.com/th?id=OHR.TrocaderoParisRoubaix_FR-FR8705103593_UHD.jpg)
+
+2026-04-06 [FR-FR] | [Pont d’Arc, Ardèche (© Gael Fontaine/Getty Images)](https://cn.bing.com/th?id=OHR.PontArdeche_FR-FR1915151137_UHD.jpg)
+
+2026-04-03 [FR-FR] | [Muscardin à l’entrée de leur nid, Normandie (© slowmotiongli/Getty Images)](https://cn.bing.com/th?id=OHR.MuscardinNest_FR-FR5342153518_UHD.jpg)
+
+2026-03-21 [FR-FR] | [Vue sur le quartier d’Endoume, les Îles du Frioul et le Château d'If, Marseille (© RIEGER Bertrand/hemis.fr/Alamy)](https://cn.bing.com/th?id=OHR.FrancophonieIf_FR-FR2314499468_UHD.jpg)
 
 2026-03-09 [FR-FR] | [Jeune cormoran (© GiovanniCaruso/GettyImages)](https://cn.bing.com/th?id=OHR.BirdCormorant_FR-FR1361604516_UHD.jpg)
 
@@ -8010,6 +8050,16 @@
 
 2022-05-17 [FR-FR] | [Le court Philippe Chatrier au stade Roland-Garros, Paris (© CTK/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.RG2022_FR-FR3111283418_UHD.jpg)
 
+2026-04-17 [IT-IT] | [Colline ondulate al tramonto, Toscana (© StevanZZ/Getty Images)](https://cn.bing.com/th?id=OHR.ToscanaSpring_IT-IT2623065946_UHD.jpg)
+
+2026-04-07 [IT-IT] | [Rione V Ponte, Roma (© Alexander Spatari/Momento/Getty Images)](https://cn.bing.com/th?id=OHR.CarbonaraRoma_IT-IT1787234049_UHD.jpg)
+
+2026-03-31 [IT-IT] | [Lago Federa, Cortina d'Ampezzo, Belluno, Veneto (© Elena-studio/iStock)](https://cn.bing.com/th?id=OHR.DolomitiSpring_IT-IT3295923422_UHD.jpg)
+
+2026-03-26 [IT-IT] | [Cattedrale Santa Maria del Fiore, Firenze, Toscana (© Lindrik/iStock/Getty Images Plus)](https://cn.bing.com/th?id=OHR.DanteDay_IT-IT4553177654_UHD.jpg)
+
+2026-03-20 [IT-IT] | [Leone con prole (© JasonPrince/iStock)](https://cn.bing.com/th?id=OHR.FathersDayItaly_IT-IT6801495105_UHD.jpg)
+
 2026-03-09 [IT-IT] | [Mimosa (© d!g!tALE by Alessandro Ciabini/Moment)](https://cn.bing.com/th?id=OHR.FestaDellaDonna_IT-IT6097435290_UHD.jpg)
 
 2026-03-03 [IT-IT] | [Piazza Vincenzo Bellini, Catania, Sicilia (© KavalenkavaVolha/iStock)](https://cn.bing.com/th?id=OHR.PiazzaCatania_IT-IT5422643580_UHD.jpg)
@@ -8351,6 +8401,14 @@
 2022-06-23 [IT-IT] | [Fontanon di Goriuda (© Federica Cattaruzzi/Shutterstock)](https://cn.bing.com/th?id=OHR.FontanonGoriuda_IT-IT6720392674_UHD.jpg)
 
 2022-06-05 [IT-IT] | [Sentieri aggrovigliati di via Krupp, Capri (© Mikolajn/Getty Images)](https://cn.bing.com/th?id=OHR.CapriViaKrupp_IT-IT4698989617_UHD.jpg)
+
+2026-04-16 [JA-JP] | [芝桜, 山梨県 (© DoctorEgg/Getty images)](https://cn.bing.com/th?id=OHR.Shibazakura2026_JA-JP4532713069_UHD.jpg)
+
+2026-04-05 [JA-JP] | [首里城歓会門, 沖縄県 那覇市 (© Jui-Chi Chan/Getty images)](https://cn.bing.com/th?id=OHR.QingmingFestival2026_JA-JP3473610824_UHD.jpg)
+
+2026-04-03 [JA-JP] | [シモクレン (© Aflo Co., Ltd./Alamy)](https://cn.bing.com/th?id=OHR.MagnoliaBloom2026_JA-JP8135720992_UHD.jpg)
+
+2026-03-28 [JA-JP] | [日本一早い桜、沖縄 (© @hapidayss/Getty Images)](https://cn.bing.com/th?id=OHR.SakuraDay2026_JA-JP6970025028_UHD.jpg)
 
 2026-03-13 [JA-JP] | [東大寺, 奈良県 奈良市 (© Sean Pavone/Alamy)](https://cn.bing.com/th?id=OHR.TodaijiTempleOmizutori2026_JA-JP4273263363_UHD.jpg)
 
@@ -8708,6 +8766,16 @@
 
 2022-05-03 [JA-JP] | [和束の茶畑, 京都 (© Tuul and Bruno Morandi/Alamy Stock)](https://cn.bing.com/th?id=OHR.Hatchju22_JA-JP1631111050_UHD.jpg)
 
+2026-04-09 [PT-BR] | [Orquídea Denphal (© Rui Santos/Getty Images)](https://cn.bing.com/th?id=OHR.Denphal_PT-BR0145708370_UHD.jpg)
+
+2026-04-06 [PT-BR] | [Esculturas de Aleijadinho na Basílica do Bom Jesus de Matozinhos, Congonhas, Minas Gerais (© Pulsar Imagens/Alamy)](https://cn.bing.com/th?id=OHR.Easter_PT-BR6932429593_UHD.jpg)
+
+2026-04-03 [PT-BR] | [Onça-pintada observando de uma árvore, Pantanal, Mato Grosso (© Marko Konig/Getty Images)](https://cn.bing.com/th?id=OHR.Jaguarcat_PT-BR9300640460_UHD.jpg)
+
+2026-03-30 [PT-BR] | [Vista aérea do Forte de Santa Maria, Salvador, Bahia (© Uiler Costa/Shutterstock)](https://cn.bing.com/th?id=OHR.AniverSalvador_PT-BR9414211573_UHD.jpg)
+
+2026-03-19 [PT-BR] | [Vista aérea do Rio Negro, Parque Nacional dos Lençóis Maranhenses, Maranhão (© Ignacio Palacios/Getty Images)](https://cn.bing.com/th?id=OHR.AerialLencois_PT-BR2485824651_UHD.jpg)
+
 2026-03-15 [PT-BR] | [Acarás-bandeira amarelos, Brasil (© Gregory_DUBUS/iStock/Getty Images Plus)](https://cn.bing.com/th?id=OHR.AnimalDay_PT-BR1131499821_UHD.jpg)
 
 2026-03-08 [PT-BR] | [Espreguiçadeiras na praia de Vai, Creta, Grécia (© borchee/Getty Images)](https://cn.bing.com/th?id=OHR.VaiUmbrellas_PT-BR0607622385_UHD.jpg)
@@ -8865,6 +8933,8 @@
 2024-08-12 [PT-BR] | [Garça-tigre-ruiva (Tigrisoma lineatum) adulta e filhote no ninho, Mato Grosso, Pantanal (© Ben Cranke/Minden)](https://cn.bing.com/th?id=OHR.DiadosPais_PT-BR1045421907_UHD.jpg)
 
 2024-08-05 [PT-BR] | [Diversos Preguiças-de-três-dedos, Amazônia, Brasil (© Gerald & Marc/Superstock)](https://cn.bing.com/th?id=OHR.DiaInternacionaldosAvos_PT-BR2289016069_UHD.jpg)
+
+2026-03-21 [ZH-CN] | [春日樱花，上海，中国 (© junyyeung/Getty Images)](https://cn.bing.com/th?id=OHR.SpringEquinoxY26_ZH-CN7450181382_UHD.jpg)
 
 2026-03-04 [ZH-CN] | [元宵节期间悬挂的宫灯，北京自贡灯会现场，北京，中国 (© Grisha Bruev/Shutterstock)](https://cn.bing.com/th?id=OHR.LanternFestivalY26_ZH-CN9186685796_UHD.jpg)
 

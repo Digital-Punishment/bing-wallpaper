@@ -1,16 +1,15 @@
-
 import requests
-import re
-import os
 import time
 import datetime
+from http import HTTPStatus
 from urllib.parse import urljoin
 from download import scrape_image_urls
+from pathlib import Path
 
 wallpaperlist_file = "bing-wallpaper.md"
 bing_server = "https://cn.bing.com/"
 
-db_URL = "https://raw.githubusercontent.com/zigou23/Bing-Daily-Wallpaper/"
+db_url = "https://raw.githubusercontent.com/zigou23/Bing-Daily-Wallpaper/"
 db_json_dir = "refs/heads/main/bing/"
 db_old_json_dir = "refs/heads/main/bing/old-2408/"
 
@@ -33,8 +32,8 @@ bing_regions = [
 
 # Image resolutions to check for
 bing_resolutions = [
-    "UHD", # (3840x2160) 4K Ultra HD
-    "1920x1080", # Full HD
+    "UHD",  # (3840x2160) 4K Ultra HD
+    "1920x1080",  # Full HD
     # "1366x768", # HD
     # "1280x720", # HD 720p
     #
@@ -54,9 +53,10 @@ bing_resolutions = [
     # "240x320", # Portrait Thumbnail
 ]
 
-# Parse JSON files from github and make a list of unique wallpapers
-def parse_json(regions):
-    uppercase_langs = list(map(lambda i: i.split("_")[1].upper(), regions))
+
+def parse_json(regions: list) -> list:
+    """Parse JSON files from github and make a list of unique wallpapers."""
+    uppercase_langs = [region.split("_")[1].upper() for region in regions]
     uppercase_langs.append("EN-AU")
 
     checklist = set()
@@ -64,68 +64,101 @@ def parse_json(regions):
     wallpapers_count = 0
 
     for region in regions:
-        for dir in [db_old_json_dir, db_json_dir]:
-            json_URL = urljoin(urljoin(db_URL, dir), region+".json")
-            print(f"Processing: {json_URL}")
+        for region_dir in [db_old_json_dir, db_json_dir]:
+            json_url = urljoin(urljoin(db_url, region_dir), region + ".json")
+            print(f"Processing: {json_url}")
             time.sleep(0.1)
-            json_file = requests.get(json_URL)
-            if json_file.status_code == 200:
+            json_file = requests.get(json_url, timeout=5)
+            if json_file.status_code == HTTPStatus.OK:
                 data = json_file.json()
                 print(f"\t    {len(data)} records in file")
                 for item in data:
-                    if item['date'] != "" and item['urlbase'] != "":
-                        date = item['date']
-                        urlbase = item['urlbase']
-                        copyright = item['copyright']
+                    if item["date"] != "" and item["urlbase"] != "":
+                        date = item["date"]
+                        urlbase = item["urlbase"]
+                        image_copyright = item["copyright"]
 
-                        basename = urlbase.split('OHR.')[1].rsplit('_', maxsplit = 1)
+                        basename = urlbase.split("OHR.")[1].rsplit("_", maxsplit=1)
                         checkname = basename[0]
-                        reg = basename[1][:5] if basename[1][:3] != "ROW" else basename[1][:3]
+                        reg = (
+                            basename[1][:5]
+                            if basename[1][:3] != "ROW"
+                            else basename[1][:3]
+                        )
 
                         if checkname not in checklist:
                             if reg in uppercase_langs:
-                                wallpapers.append({'date': date, 'region': reg, 'copyright': copyright, 'urlbase': urlbase})
+                                wallpapers.append(
+                                    {
+                                        "date": date,
+                                        "region": reg,
+                                        "copyright": image_copyright,
+                                        "urlbase": urlbase,
+                                    },
+                                )
                                 checklist.add(checkname)
                             else:
                                 print(f"🛑 Unknown region: {reg}")
 
-                print(f"\t    {len(checklist)} unique filenames total (+{len(checklist) - wallpapers_count})")
+                print(
+                    f"\t    {len(checklist)} unique filenames total"
+                    f" (+{len(checklist) - wallpapers_count})",
+                )
                 wallpapers_count = len(checklist)
             else:
                 print("😞 File not available")
 
-    return sorted(wallpapers, key=lambda i: (len(uppercase_langs) - uppercase_langs.index(i['region']), i['date']), reverse=True)
+    return sorted(
+        wallpapers,
+        key=lambda i: (
+            len(uppercase_langs) - uppercase_langs.index(i["region"]),
+            i["date"],
+        ),
+        reverse=True,
+    )
 
-# Generate a human readable list of wallpapers
-def generate_filecontent(wallpapers_list, resolutions):
+
+def generate_filecontent(wallpapers_list: list, resolutions: list) -> str:
+    """Generate a human readable list of wallpapers."""
     image_urls = set(scrape_image_urls(wallpaperlist_file))
     content = "## Bing Wallpaper\n\n"
     need_cleanup = False
     for wallpaper in wallpapers_list:
-        date = datetime.date(int(wallpaper['date'][:4]), int(wallpaper['date'][4:6]),int(wallpaper['date'][6:])) + datetime.timedelta(days=1)
-        urlbase = wallpaper['urlbase'].replace("https://bing.com/", bing_server).replace("https://www.bing.com/", bing_server)
-        copyright = wallpaper['copyright']
-        reg = wallpaper['region']
+        date = datetime.date(
+            int(wallpaper["date"][:4]),
+            int(wallpaper["date"][4:6]),
+            int(wallpaper["date"][6:]),
+        ) + datetime.timedelta(days=1)
+        urlbase = (
+            wallpaper["urlbase"]
+            .replace("https://bing.com/", bing_server)
+            .replace("https://www.bing.com/", bing_server)
+        )
+        wallpaper_copyright = wallpaper["copyright"]
+        reg = wallpaper["region"]
         reg = " " if reg == "EN-US" else f" [{reg}] "
+
+        if need_cleanup:
+            print("\033[2K", end="")
 
         resolution = ""
 
-        if need_cleanup:
-            print('\033[2K', end='')
-        for res in resolutions:
-            wallpaper_URL = f"{urlbase}_{res}.jpg"
-            if wallpaper_URL in image_urls:
+        # Try to find if current wallpaper was already listed
+        for i, res in enumerate(resolutions):
+            wallpaper_url = f"{urlbase}_{res}.jpg"
+            if wallpaper_url in image_urls and i == 0:
                 resolution = res
                 print(f"✅ Record found in {wallpaperlist_file}: {urlbase}", end="\r")
                 need_cleanup = True
                 break
 
+        # Try to find best resolution on the server
         if resolution == "":
             for res in resolutions:
-                wallpaper_URL = f"{urlbase}_{res}.jpg"
+                wallpaper_url = f"{urlbase}_{res}.jpg"
                 time.sleep(0.1)
-                response = requests.head(wallpaper_URL, timeout=5)
-                if response.status_code == 200:
+                response = requests.head(wallpaper_url, timeout=5)
+                if response.status_code == HTTPStatus.OK:
                     resolution = res
                     print(f"👍 Link to {resolution} file found: {urlbase}")
                     need_cleanup = False
@@ -135,14 +168,17 @@ def generate_filecontent(wallpapers_list, resolutions):
             print(f"👎 No links found: {urlbase}", end="\r")
             need_cleanup = True
         else:
-            content += f"{date}{reg}| [{copyright}]({urlbase}_{resolution}.jpg)\n\n"
+            content += (
+                f"{date}{reg}| [{wallpaper_copyright}]({urlbase}_{resolution}.jpg)\n\n"
+            )
 
     if need_cleanup:
-        print('\033[2K', end='')
+        print("\033[2K", end="")
     return content
+
 
 if __name__ == "__main__":
     file_content = generate_filecontent(parse_json(bing_regions), bing_resolutions)
-    with open(wallpaperlist_file, 'w') as file:
+    with Path(wallpaperlist_file).open(mode="w") as file:
         file.write(file_content)
     print(f"😃 {wallpaperlist_file} created!")

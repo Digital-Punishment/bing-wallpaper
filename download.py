@@ -1,94 +1,127 @@
-
 import requests
 import re
-import os
 import time
+from http import HTTPStatus
+from pathlib import Path, PurePath
 
 # Path to the wallpapers and blacklist files
-wallpaperlist_file_path = 'bing-wallpaper.md'
-blacklist_file_path = 'blacklist.txt'
+wallpaperlist_filename = "bing-wallpaper.md"
+blacklist_filename = "blacklist.txt"
 
 # Download folders
-download_dir = "downloads/good"
-blacklisted_dir = "downloads/bad"
+download_dir = "./downloads/good"
+blacklisted_dir = "./downloads/bad"
 
-# Function to download images
-def download_image(i, total, url, folder_name, file_name, need_cleanup):
-    if need_cleanup:
-        print('\033[2K', end='')
-    if not os.path.exists(os.path.join('./', folder_name)):
-        os.makedirs(os.path.join('./', folder_name))
-    full_name = os.path.join(folder_name, file_name)
-    if os.path.exists(full_name):
+
+def download_image(prefix: str, url: str, full_name: Path) -> bool:
+    """Download images."""
+    parent_folder = Path(PurePath(full_name).parent)
+    if not parent_folder.exists():
+        parent_folder.mkdir(parents=True)
+
+    need_cleanup = False
+    if Path(full_name).exists():
         time.sleep(0.01)
-        print(f"🚫 [{i + 1}/{total}]: File exists {full_name}", end="\r")
+        print(f"🚫 {prefix} File exists {full_name}", end="\r")
         need_cleanup = True
     else:
-        print(f"✅ [{i + 1}/{total}]: Downloading {full_name}", end="\r")
+        print(f"✅ {prefix} Downloading {full_name}", end="\r")
         time.sleep(0.1)
-        response = requests.get(url)
-        if response.status_code == 200:
-            with open(full_name, 'wb') as file:
+        response = requests.get(url, timeout=5)
+        if response.status_code == HTTPStatus.OK:
+            with Path(full_name).open(mode="wb") as file:
                 file.write(response.content)
-                print('\033[2K', end='')
-            print(f"✅ [{i + 1}/{total}]: Downloaded {full_name}")
-            need_cleanup = False
+                print("\033[2K", end="")
+            print(f"✅ {prefix} Downloaded {full_name}")
         else:
-            print('\033[2K', end='')
-            print(f"🛑 [{i + 1}/{total}]: Failed to download {url}")
-            need_cleanup = False
+            print("\033[2K", end="")
+            print(f"🛑 {prefix} Failed to download {url}")
     return need_cleanup
-# Function to scrape image URLs from file
-def scrape_image_urls(file_path):
-    with open(file_path, 'r') as file:
+
+
+def scrape_image_urls(file_path: Path) -> list:
+    """Scrape image URLs from file."""
+    with Path(file_path).open(mode="r") as file:
         content = file.read()
 
     # Regular expression to find all URLs that end with image file extensions
-    image_urls = re.findall(r'(https?://[^\s]+\.jpg|png|jpeg|gif)', content)
-    return image_urls
-# Function to scrape filenames from blacklist file
-def scrape_image_names(file_path):
-    with open(file_path, 'r') as file:
+    return re.findall(r"(https?://[^\s]+\.jpg|png|jpeg|gif)", content)
+
+
+def scrape_image_names(file_path: Path) -> list:
+    """Scrape filenames from blacklist file."""
+    with Path(file_path).open(mode="r") as file:
         content = file.read()
 
     # Regular expression to find all filenames that end with image file extensions
-    image_names = re.findall(r'([^\s]+\.jpg|png|jpeg|gif)', content)
-    return image_names
-# Move downloaded files to appropriate folders
-def sort_images(download_folder, blacklisted_folder, blacklist):
-    if not os.path.exists(os.path.join('./', download_folder)):
-        os.makedirs(os.path.join('./', download_folder))
-    if not os.path.exists(os.path.join('./', blacklisted_folder)):
-        os.makedirs(os.path.join('./', blacklisted_folder))
+    return re.findall(r"([^\s]+\.jpg|png|jpeg|gif)", content)
 
-    for file in os.listdir(download_folder):
-        if os.path.isfile(os.path.join(download_folder, file)) and file in blacklist:
-            time.sleep(0.01)
-            os.rename(os.path.join(download_folder, file), os.path.join(blacklisted_folder, file))
-            print(f"👎 Moved {file} to {blacklisted_folder}")
-    for file in os.listdir(blacklisted_folder):
-        if os.path.isfile(os.path.join(blacklisted_folder, file)) and file not in blacklist:
-            time.sleep(0.01)
-            os.rename(os.path.join(blacklisted_folder, file), os.path.join(download_folder, file))
-            print(f"👍 Moved {file} to {download_folder}")
 
-#allow import of functions from other files
+def sort_images(
+    source_folder: str,
+    target_folder: str,
+    imagelist: set,
+    movelist: set,
+) -> None:
+    """Move downloaded files to appropriate folders."""
+    if not Path(source_folder).exists():
+        Path(source_folder).mkdir(parents=True)
+    if not Path(target_folder).exists():
+        Path(target_folder).mkdir(parents=True)
+
+    for file in Path(source_folder).iterdir():
+        if Path(file).is_file():
+            if PurePath(file).name not in imagelist:
+                file.unlink()
+                print(f"🛑 Removed {file}")
+            elif PurePath(file).name in movelist:
+                time.sleep(0.01)
+                file.rename(Path(target_folder) / PurePath(file).name)
+                print(f"🔄 Moved {file} to {target_folder}")
+
+
+# allow import of functions from other files
 if __name__ == "__main__":
     # Scrape image URLs from the README file
-    image_urls = set(scrape_image_urls(wallpaperlist_file_path))
-    blacklisted_files = set(scrape_image_names(blacklist_file_path))
+    image_urls = set(scrape_image_urls(Path(wallpaperlist_filename)))
+    image_files = {url.split("OHR.")[1] for url in image_urls}
+    blacklisted_files = set(scrape_image_names(Path(blacklist_filename)))
+
+    # Blacklist cleanup
+    blacklist_content = (
+        "#put names of blacklisted files here\n#each one on a new line\n\n\n"
+    )
+    for filename in sorted(blacklisted_files):
+        if filename in image_files:
+            blacklist_content += f"{filename}\n"
+
+    with Path(blacklist_filename).open(mode="w") as blacklist_file:
+        blacklist_file.write(blacklist_content)
 
     # Sort downloaded files
-    sort_images(download_dir, blacklisted_dir, blacklisted_files)
+    if len(blacklisted_files) > 0:
+        whitelisted_files = {
+            file for file in image_files if file not in blacklisted_files
+        }
+        sort_images(download_dir, blacklisted_dir, image_files, blacklisted_files)
+        sort_images(blacklisted_dir, download_dir, image_files, whitelisted_files)
 
     # Download each image
     need_cleanup = False
     for i, url in enumerate(image_urls):
-        file_name = url.split('OHR.')[1]
-        folder_name = download_dir
-        if file_name in blacklisted_files:
-            folder_name = blacklisted_dir
-        need_cleanup = download_image(i, len(image_urls), url, folder_name, file_name, need_cleanup)
+        file_name = url.split("OHR.")[1]
+        folder_name = (
+            download_dir if file_name not in blacklisted_files else blacklisted_dir
+        )
+        file_path = Path(folder_name) / Path(file_name)
+        prefix = f"[{i + 1}/{len(image_urls)}]:"
+        if need_cleanup:
+            print("\033[2K", end="")
+        need_cleanup = download_image(
+            prefix,
+            url,
+            file_path,
+        )
     if need_cleanup:
-        print('\033[2K', end='')
+        print("\033[2K", end="")
     print("😃 Done!")
