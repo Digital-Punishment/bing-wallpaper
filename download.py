@@ -100,9 +100,7 @@ if __name__ == "__main__":
 
     # Sort downloaded files
     if len(blacklisted_files) > 0:
-        whitelisted_files = {
-            file for file in image_files if file not in blacklisted_files
-        }
+        whitelisted_files = image_files - blacklisted_files
         sort_images(download_dir, blacklisted_dir, image_files, blacklisted_files)
         sort_images(blacklisted_dir, download_dir, image_files, whitelisted_files)
 
