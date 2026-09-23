@@ -22,20 +22,20 @@ def download_image(prefix: str, url: str, full_name: Path) -> bool:
     need_cleanup = False
     if Path(full_name).exists():
         time.sleep(0.01)
-        print(f"🚫 {prefix} File exists {full_name}", end="\r")
+        print(f"🚫  {prefix} File exists: {full_name}", end="\r")
         need_cleanup = True
     else:
-        print(f"✅ {prefix} Downloading {full_name}", end="\r")
+        print(f"✅  {prefix} Downloading: {full_name}", end="\r")
         time.sleep(0.1)
         response = requests.get(url, timeout=5)
         if response.status_code == HTTPStatus.OK:
             with Path(full_name).open(mode="wb") as file:
                 file.write(response.content)
                 print("\033[2K", end="")
-            print(f"✅ {prefix} Downloaded {full_name}")
+            print(f"✅  {prefix} Download complete: {full_name}")
         else:
             print("\033[2K", end="")
-            print(f"🛑 {prefix} Failed to download {url}")
+            print(f"🛑  {prefix} Download failed: {url}")
     return need_cleanup
 
 
@@ -104,15 +104,28 @@ if __name__ == "__main__":
         sort_images(download_dir, blacklisted_dir, image_files, blacklisted_files)
         sort_images(blacklisted_dir, download_dir, image_files, whitelisted_files)
 
+    # Check for existing files
+    existing_files = {
+        filepath.name
+        for filepath in set(Path(download_dir).glob("*.jpg"))
+        | set(Path(blacklisted_dir).glob("*.jpg"))
+    }
+    new_image_urls = {
+        url for url in image_urls if url.split("OHR.")[1] not in existing_files
+    }
+    print(
+        f"🖼️  {'Total:':<7} {len(image_urls):>10}\n🖼️  {'New:':<7} {len(new_image_urls):>10}"
+    )
+
     # Download each image
     need_cleanup = False
-    for i, url in enumerate(image_urls):
+    for i, url in enumerate(new_image_urls):
         file_name = url.split("OHR.")[1]
         folder_name = (
             download_dir if file_name not in blacklisted_files else blacklisted_dir
         )
         file_path = Path(folder_name) / Path(file_name)
-        prefix = f"[{i + 1}/{len(image_urls)}]:"
+        prefix = f"[{i + 1}/{len(new_image_urls)}]:"
         if need_cleanup:
             print("\033[2K", end="")
         need_cleanup = download_image(
@@ -122,4 +135,4 @@ if __name__ == "__main__":
         )
     if need_cleanup:
         print("\033[2K", end="")
-    print("😃 Done!")
+    print("😃  Done!")

@@ -292,6 +292,8 @@
 
 2026-05-01 | [Grape hyacinths and tulips, Keukenhof Gardens, Lisse, Netherlands (© Martin Ruegner/Getty Images)](https://cn.bing.com/th?id=OHR.DutchTulips_EN-US2575617067_UHD.jpg)
 
+2026-04-30 | [Belém Tower on the bank of the Tagus River, Lisbon, Portugal (© f9photos/Getty Images)](https://cn.bing.com/th?id=OHR.BelemTowerBank_EN-US2528466391_UHD.jpg)
+
 2026-04-29 | [Spectacled bear resting in tree, Ecuador (© Andy Rouse/Nature Picture Library)](https://cn.bing.com/th?id=OHR.AndeanBear_EN-US2465945308_UHD.jpg)
 
 2026-04-28 | [The glass dome of Galleria Vittorio Emanuele II, Milan, Italy (© PhillipMinnis/Getty Images)](https://cn.bing.com/th?id=OHR.MilanGalleria_EN-US2432086382_UHD.jpg)
@@ -6056,6 +6058,56 @@
 
 2018-06-07 | [Feature Attraction: 85 years at the drive-in (© Martha Holmes/Time Life Pictures/Getty Images)](https://cn.bing.com/th?id=OHR.FlyinDrivein_EN-US11097970692_1920x1080.jpg)
 
+2026-09-16 [EN-CA] | [Red-and-green macaws (© markes51/Getty Images)](https://cn.bing.com/th?id=OHR.RedMacawsFlight_EN-CA9501790458_UHD.jpg)
+
+2026-09-12 [EN-CA] | [Villefranche-sur-Mer, French Riviera, France (© StockByM/Getty Images)](https://cn.bing.com/th?id=OHR.FrenchRivieraVillage_EN-CA7960015252_UHD.jpg)
+
+2026-09-11 [EN-CA] | [The Roy Thomson Hall, Toronto, Ontario (© eskystudio/Shutterstock)](https://cn.bing.com/th?id=OHR.TIFFRoy_EN-CA6717935809_UHD.jpg)
+
+2026-09-08 [EN-CA] | [Old Town Hall, Bamberg, Germany (© SCStock/Getty Images)](https://cn.bing.com/th?id=OHR.BambergTownhall_EN-CA5322517448_UHD.jpg)
+
+2026-08-26 [EN-CA] | [Atlantic puffin holding a wild iris in his beak in Elliston, Newfoundland (© mlorenzphotography/Getty Images)](https://cn.bing.com/th?id=OHR.PurplePuffin_EN-CA8959604660_UHD.jpg)
+
+2026-08-22 [EN-CA] | [Aerial view of Canadian National Exhibition in Toronto (© Wirestock/Getty Images)](https://cn.bing.com/th?id=OHR.CanadaNE_EN-CA9090606067_UHD.jpg)
+
+2026-08-20 [EN-CA] | [Whytecliff Park in West Vancouver, British Columbia (© Aolin Chen/Getty Images)](https://cn.bing.com/th?id=OHR.WhyteCliffP_EN-CA6624264199_UHD.jpg)
+
+2026-08-07 [EN-CA] | [Edmonton at night, Alberta (© Tetyana Babiy/iStock/Getty Images)](https://cn.bing.com/th?id=OHR.EDMFolkFest_EN-CA4302918547_UHD.jpg)
+
+2026-07-18 [EN-CA] | [A prairie storm gathers over grain silos in Saskatchewan (© mysticenergy/Getty Images)](https://cn.bing.com/th?id=OHR.GrainSilosSK_EN-CA7421778186_UHD.jpg)
+
+2026-07-11 [EN-CA] | [Pink wildflowers by Emerald Lake in summer, Yoho National Park, British Columbia (© Olga Matveeva/Getty Images)](https://cn.bing.com/th?id=OHR.SummerBC_EN-CA3026184215_UHD.jpg)
+
+2026-07-05 [EN-CA] | [Kaysersberg, Alsace, France (© Federica Gentile/Getty Images)](https://cn.bing.com/th?id=OHR.KaysersbergVillage_EN-CA0905183627_UHD.jpg)
+
+2026-06-28 [EN-CA] | [Dramatic sky over Montreal, Quebec (© d3sign/Getty Images)](https://cn.bing.com/th?id=OHR.MulticulturalismDY_EN-CA9116110353_UHD.jpg)
+
+2026-06-22 [EN-CA] | [Red maple leaf, symbol of Canada (© namaki/Getty Images)](https://cn.bing.com/th?id=OHR.IndigenousMaple_EN-CA8176109531_UHD.jpg)
+
+2026-06-20 [EN-CA] | [La Rocchetta Lighthouse, Piombino, Italy (© StevanZZ/Getty Images)](https://cn.bing.com/th?id=OHR.IsolaElba_EN-CA8613795085_UHD.jpg)
+
+2026-06-15 [EN-CA] | [Mallard duck (© Philippe Paternolli/Getty Images)](https://cn.bing.com/th?id=OHR.DuckPond_EN-CA5165691235_UHD.jpg)
+
+2026-06-08 [EN-CA] | [Ruins of Dunseverick Castle, County Antrim, Northern Ireland (© Krzysztof Rogalski/Getty Images)](https://cn.bing.com/th?id=OHR.DunseverickCastle2026_EN-CA2353386537_UHD.jpg)
+
+2026-06-02 [EN-CA] | [Palermo skyline at dusk, Sicily, Italy (© Sean Pavone/Getty Images)](https://cn.bing.com/th?id=OHR.OlivaPalermo_EN-CA6978537696_UHD.jpg)
+
+2026-06-01 [EN-CA] | [Humber River winding through Boyd Conservation Area, Woodbridge, Vaughan, Ontario (© jimfeng/Getty Images)](https://cn.bing.com/th?id=OHR.HumberRiverTrails_EN-CA6657789473_UHD.jpg)
+
+2026-05-26 [EN-CA] | [View over Jaipur from Hawa Mahal, Rajasthan (© byheaven/Getty Images)](https://cn.bing.com/th?id=OHR.HawaMahal2026_EN-CA6985654541_UHD.jpg)
+
+2026-05-25 [EN-CA] | [A mute swan reflected on tranquil waters (© Don White/Getty Images)](https://cn.bing.com/th?id=OHR.MuteSwanGI_EN-CA6792012530_UHD.jpg)
+
+2026-05-09 [EN-CA] | [Tulips and cherry blossoms at the Rideau Canal, Ottawa, Ontario (© J Duquette/Getty Images)](https://cn.bing.com/th?id=OHR.TulipFestOT_EN-CA8431484438_UHD.jpg)
+
+2026-05-06 [EN-CA] | [A majestic bull moose foraging through the green undergrowth, Quebec (© pchoui/Getty Images)](https://cn.bing.com/th?id=OHR.BullQuebec_EN-CA5955231847_UHD.jpg)
+
+2026-05-02 [EN-CA] | [Tŵr Mawr Lighthouse, Ynys Llanddwyn, Anglesey, Wales (© Lukas Bischoff/Getty Images)](https://cn.bing.com/th?id=OHR.TwrMawrLighthouse2026_EN-CA5457397043_UHD.jpg)
+
+2026-04-21 [EN-CA] | [Buckets on maple trees collecting sap for maple syrup (© capecodphoto/Getty Images)](https://cn.bing.com/th?id=OHR.MapleExtraction_EN-CA4012556624_UHD.jpg)
+
+2026-04-20 [EN-CA] | [Mirror Beach, Porto Seguro, Bahia, Brazil (© Marcelo Nacinovic/Getty Images)](https://cn.bing.com/th?id=OHR.TranBA_EN-CA3645190031_UHD.jpg)
+
 2026-04-17 [EN-CA] | [Blooming lupines in Newfoundland (© Nature, Parks/Outdoor/Shutterstock)](https://cn.bing.com/th?id=OHR.Wildflowerbloom_EN-CA6661555631_UHD.jpg)
 
 2026-04-12 [EN-CA] | [A canopy of cherry blossoms in Stanley Park, Vancouver (© WendyNordvikCarr/Getty Images)](https://cn.bing.com/th?id=OHR.StanleySakura_EN-CA3455290957_UHD.jpg)
@@ -6410,9 +6462,29 @@
 
 2022-05-02 [EN-CA] | [Laburnum (golden chain) trees and purple alliums in bloom at VanDusen Botanical Garden, Vancouver (© Greg Vaughn/Alamy)](https://cn.bing.com/th?id=OHR.VanBlooms_EN-CA0754129800_UHD.jpg)
 
-2026-04-18 [EN-GB] | [Moai statue quarry, Rano Raraku, Easter Island, Chile (© Gavin Hellier/Alamy)](https://cn.bing.com/th?id=OHR.MaoiStatues_EN-GB2286908744_UHD.jpg)
+2026-09-23 [EN-GB] | [Aerial view of black lava beach, El Golfo, Lanzarote, Canary Islands, Spain (© Westend61/Adobe Stock)](https://cn.bing.com/th?id=OHR.ElGolfo_EN-GB9192637782_UHD.jpg)
 
-2026-04-04 [EN-GB] | [Dolbadarn Castle, Llanberis, Snowdonia National Park, Wales (© Allan Hartley/Alamy)](https://cn.bing.com/th?id=OHR.NPFortnight2026_EN-GB6135344631_UHD.jpg)
+2026-09-13 [EN-GB] | [Interior of the Royal Albert Hall, London (© William Barton/Shutterstock)](https://cn.bing.com/th?id=OHR.LastNightOfTheProms2026_EN-GB7492486139_UHD.jpg)
+
+2026-08-30 [EN-GB] | [Notting Hill Carnival, London (© Sebastian Remme/Alamy Live News)](https://cn.bing.com/th?id=OHR.NottingHillCarnival2026_EN-GB1828107135_UHD.jpg)
+
+2026-08-08 [EN-GB] | [Hot air balloons above Bristol city centre, England (© Rich Jones Photography/Moment/Getty Images)](https://cn.bing.com/th?id=OHR.BristolBalloonFiesta2026_EN-GB3752871643_UHD.jpg)
+
+2026-08-02 [EN-GB] | [Rainbow balloons at the pride parade in Brighton, East Sussex, England (© Joel Sharpe/Getty Images)](https://cn.bing.com/th?id=OHR.BrightonPride2026_EN-GB6665333938_UHD.jpg)
+
+2026-07-11 [EN-GB] | [Llanthony Priory, Black Mountains area, Monmouthshire, Wales (© Chris Griffiths/Moment/Getty Images)](https://cn.bing.com/th?id=OHR.LlanthonyPriory2026_EN-GB4079729139_UHD.jpg)
+
+2026-07-05 [EN-GB] | [London (© TomasSereda/Getty Images)](https://cn.bing.com/th?id=OHR.PrideInLondon2026_EN-GB7157270875_UHD.jpg)
+
+2026-06-14 [EN-GB] | [Members of the Household Cavalry Mounted Regiment at Hyde Park, London (© Leon Neal/Staff/Getty Images)](https://cn.bing.com/th?id=OHR.TroopingTheColour2026_EN-GB9412651820_UHD.jpg)
+
+2026-05-20 [EN-GB] | [Carnivorous red and green pitcher plants at the Chelsea Flower Show (© Jillian Cain Photography/Shutterstock)](https://cn.bing.com/th?id=OHR.ChelseaFlower2026_EN-GB7917648389_UHD.jpg)
+
+2026-05-02 [EN-GB] | [A merry-go-round in Brighton, England (© Alisia Luther/Shutterstock)](https://cn.bing.com/th?id=OHR.BrightonFestival2026_EN-GB4224499383_UHD.jpg)
+
+2026-04-24 [EN-GB] | [Windsor Castle, Berkshire, England (© Mistervlad/Shutterstock)](https://cn.bing.com/th?id=OHR.StGeorgeDay2026_EN-GB4338835487_UHD.jpg)
+
+2026-04-05 [EN-GB] | [Dolbadarn Castle, Llanberis, Snowdonia National Park, Wales (© Allan Hartley/Alamy)](https://cn.bing.com/th?id=OHR.NPFortnight2026_EN-GB6135344631_UHD.jpg)
 
 2026-03-30 [EN-GB] | [Liberty Clock, London, England (© Dukas/Universal Images Group/Getty Images)](https://cn.bing.com/th?id=OHR.BSTStarts2026_EN-GB5752947353_UHD.jpg)
 
@@ -6440,45 +6512,45 @@
 
 2025-10-27 [EN-GB] | [Clock tower of Emmanuel College, University of Cambridge, England (© Geography Photos/Universal Images Group/Getty Images)](https://cn.bing.com/th?id=OHR.DSTEnds2025_EN-GB3762675856_UHD.jpg)
 
-2025-10-02 [EN-GB] | [Waterfall in the Cairngorms National Park, Scotland (© JohnFScott/iStock/Getty Images)](https://cn.bing.com/th?id=OHR.NationalPoetryDay2025_EN-GB3464467927_UHD.jpg)
+2025-10-03 [EN-GB] | [Waterfall in the Cairngorms National Park, Scotland (© JohnFScott/iStock/Getty Images)](https://cn.bing.com/th?id=OHR.NationalPoetryDay2025_EN-GB3464467927_UHD.jpg)
 
-2025-10-01 [EN-GB] | [Silhouette of former South African President Nelson Mandela, 26 Leake Street, London, 2019 (© Leon Neal/Getty Images)](https://cn.bing.com/th?id=OHR.BlackMonthUK2025_EN-GB0715842244_UHD.jpg)
+2025-10-02 [EN-GB] | [Silhouette of former South African President Nelson Mandela, 26 Leake Street, London, 2019 (© Leon Neal/Getty Images)](https://cn.bing.com/th?id=OHR.BlackMonthUK2025_EN-GB0715842244_UHD.jpg)
 
-2025-09-13 [EN-GB] | [Royal Albert Hall, South Kensington, London (© Gonzalo Azumendi/Stone/Getty Images)](https://cn.bing.com/th?id=OHR.PromsNight2025_EN-GB2154998430_UHD.jpg)
+2025-09-14 [EN-GB] | [Royal Albert Hall, South Kensington, London (© Gonzalo Azumendi/Stone/Getty Images)](https://cn.bing.com/th?id=OHR.PromsNight2025_EN-GB2154998430_UHD.jpg)
 
-2025-09-07 [EN-GB] | [The Glasshouse International Centre for Music, Gateshead, England (© ChrisHepburn/iStock/Getty Images)](https://cn.bing.com/th?id=OHR.GreatNorthRun2025_EN-GB8681982473_UHD.jpg)
+2025-09-08 [EN-GB] | [The Glasshouse International Centre for Music, Gateshead, England (© ChrisHepburn/iStock/Getty Images)](https://cn.bing.com/th?id=OHR.GreatNorthRun2025_EN-GB8681982473_UHD.jpg)
 
-2025-09-01 [EN-GB] | [Rock layers in Zumaia, Basque Country, Spain (© Eloi_Omella/Getty Images)](https://cn.bing.com/th?id=OHR.GipuzcoaSummer_EN-GB2818544324_UHD.jpg)
+2025-09-02 [EN-GB] | [Rock layers in Zumaia, Basque Country, Spain (© Eloi_Omella/Getty Images)](https://cn.bing.com/th?id=OHR.GipuzcoaSummer_EN-GB2818544324_UHD.jpg)
 
-2025-08-24 [EN-GB] | [Notting Hill Carnival wall mural, London (© BRIAN ANTHONY/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.NottingHillCarnival2025_EN-GB8998798603_UHD.jpg)
+2025-08-25 [EN-GB] | [Notting Hill Carnival wall mural, London (© BRIAN ANTHONY/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.NottingHillCarnival2025_EN-GB8998798603_UHD.jpg)
 
-2025-08-16 [EN-GB] | [Wild garlic, Greatwood Copse, Isle of Wight, England (© Available Light Photography/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.GarlicFestival2025_EN-GB2919536930_UHD.jpg)
+2025-08-17 [EN-GB] | [Wild garlic, Greatwood Copse, Isle of Wight, England (© Available Light Photography/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.GarlicFestival2025_EN-GB2919536930_UHD.jpg)
 
-2025-08-08 [EN-GB] | [Hot air balloons over a golf course during the Bristol International Balloon Fiesta (© Ben Birchall/PA Images/Getty Images)](https://cn.bing.com/th?id=OHR.BalloonFiesta2025_EN-GB9167684469_UHD.jpg)
+2025-08-09 [EN-GB] | [Hot air balloons over a golf course during the Bristol International Balloon Fiesta (© Ben Birchall/PA Images/Getty Images)](https://cn.bing.com/th?id=OHR.BalloonFiesta2025_EN-GB9167684469_UHD.jpg)
 
-2025-08-07 [EN-GB] | [Sweetheart Abbey, Dumfries and Galloway, Scotland (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.SweetheartAbbey2025_EN-GB2068922474_UHD.jpg)
+2025-08-08 [EN-GB] | [Sweetheart Abbey, Dumfries and Galloway, Scotland (© Westend61/Getty Images)](https://cn.bing.com/th?id=OHR.SweetheartAbbey2025_EN-GB2068922474_UHD.jpg)
 
-2025-08-02 [EN-GB] | [Spectators at Cowes Week 2013 in Cowes, Isle of Wight (© Alan Crowhurst/Getty Images)](https://cn.bing.com/th?id=OHR.CowesWeek2025_EN-GB0990993509_UHD.jpg)
+2025-08-03 [EN-GB] | [Spectators at Cowes Week 2013 in Cowes, Isle of Wight (© Alan Crowhurst/Getty Images)](https://cn.bing.com/th?id=OHR.CowesWeek2025_EN-GB0990993509_UHD.jpg)
 
-2025-07-21 [EN-GB] | [Buckingham Palace, London (© Leonid Andronov/Shutterstock)](https://cn.bing.com/th?id=OHR.BuckinghamPalaceOpening2025_EN-GB0680195600_UHD.jpg)
+2025-07-22 [EN-GB] | [Buckingham Palace, London (© Leonid Andronov/Shutterstock)](https://cn.bing.com/th?id=OHR.BuckinghamPalaceOpening2025_EN-GB0680195600_UHD.jpg)
 
-2025-07-05 [EN-GB] | [Pride in London in 2016 (© Gail Orenstein/NurPhoto/Getty Images)](https://cn.bing.com/th?id=OHR.PrideInLondon2025_EN-GB3089444985_UHD.jpg)
+2025-07-06 [EN-GB] | [Pride in London in 2016 (© Gail Orenstein/NurPhoto/Getty Images)](https://cn.bing.com/th?id=OHR.PrideInLondon2025_EN-GB3089444985_UHD.jpg)
 
-2025-06-14 [EN-GB] | [Trooping the Colour procession along The Mall in London, England, on June 16, 2007 (© Tim Graham Photo Library/Getty Images)](https://cn.bing.com/th?id=OHR.TroopingTheColour2025_EN-GB7387782428_UHD.jpg)
+2025-06-15 [EN-GB] | [Trooping the Colour procession along The Mall in London, England, on June 16, 2007 (© Tim Graham Photo Library/Getty Images)](https://cn.bing.com/th?id=OHR.TroopingTheColour2025_EN-GB7387782428_UHD.jpg)
 
-2025-06-07 [EN-GB] | [Victoria Street in Edinburgh, Scotland (© Michael Greene/iStock/Getty Images)](https://cn.bing.com/th?id=OHR.VictoriaStreet2025_EN-GB2065816867_UHD.jpg)
+2025-06-08 [EN-GB] | [Victoria Street in Edinburgh, Scotland (© Michael Greene/iStock/Getty Images)](https://cn.bing.com/th?id=OHR.VictoriaStreet2025_EN-GB2065816867_UHD.jpg)
 
-2025-05-22 [EN-GB] | [A bookshop in Hay-on-Wye, Wales, June 1997 (© Epics/Contributor/Hulton Archive/Getty Images)](https://cn.bing.com/th?id=OHR.HayFestival2025_EN-GB4662242459_UHD.jpg)
+2025-05-23 [EN-GB] | [A bookshop in Hay-on-Wye, Wales, June 1997 (© Epics/Contributor/Hulton Archive/Getty Images)](https://cn.bing.com/th?id=OHR.HayFestival2025_EN-GB4662242459_UHD.jpg)
 
-2025-05-05 [EN-GB] | [Beach huts in Brighton and Hove, England (© Moonstone Images/iStock/Getty Images)](https://cn.bing.com/th?id=OHR.BrightonFestival2025_EN-GB9227579915_UHD.jpg)
+2025-05-06 [EN-GB] | [Beach huts in Brighton and Hove, England (© Moonstone Images/iStock/Getty Images)](https://cn.bing.com/th?id=OHR.BrightonFestival2025_EN-GB9227579915_UHD.jpg)
 
-2025-04-27 [EN-GB] | [Tower Bridge in London, England (© Remedios/iStock/Getty Images)](https://cn.bing.com/th?id=OHR.LondonMarathon2025_EN-GB0402575812_UHD.jpg)
+2025-04-28 [EN-GB] | [Tower Bridge in London, England (© Remedios/iStock/Getty Images)](https://cn.bing.com/th?id=OHR.LondonMarathon2025_EN-GB0402575812_UHD.jpg)
 
-2025-04-23 [EN-GB] | [A large mechanical dragon at Saint George's Day celebrations (© MediaWorldImages/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.StGeorgeDay2025_EN-GB0136708024_UHD.jpg)
+2025-04-24 [EN-GB] | [A large mechanical dragon at Saint George's Day celebrations (© MediaWorldImages/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.StGeorgeDay2025_EN-GB0136708024_UHD.jpg)
 
-2025-04-10 [EN-GB] | [Wales Millennium Centre, Cardiff, Wales (© Billy Stock/Collection Mix/Getty Images)](https://cn.bing.com/th?id=OHR.MillenniumCentre2025_EN-GB4834695501_UHD.jpg)
+2025-04-11 [EN-GB] | [Wales Millennium Centre, Cardiff, Wales (© Billy Stock/Collection Mix/Getty Images)](https://cn.bing.com/th?id=OHR.MillenniumCentre2025_EN-GB4834695501_UHD.jpg)
 
-2025-04-05 [EN-GB] | [2021 Grand National at Aintree Racecourse, Liverpool, England (© Alan Crowhurst/PA Images/Getty Images)](https://cn.bing.com/th?id=OHR.GrandNational2025_EN-GB3927450244_UHD.jpg)
+2025-04-06 [EN-GB] | [2021 Grand National at Aintree Racecourse, Liverpool, England (© Alan Crowhurst/PA Images/Getty Images)](https://cn.bing.com/th?id=OHR.GrandNational2025_EN-GB3927450244_UHD.jpg)
 
 2025-03-10 [EN-GB] | [The Shard, London (© Dennis Fischer Photography/Moment/Getty Images)](https://cn.bing.com/th?id=OHR.ShardLondon2025_EN-GB0574444826_UHD.jpg)
 
@@ -6508,19 +6580,19 @@
 
 2024-10-28 [EN-GB] | [The Balmoral Clocktower, Edinburgh (© Puthipong Worasaran/Moment/Getty Images)](https://cn.bing.com/th?id=OHR.DSTEnds2024_EN-GB1274642468_UHD.jpg)
 
-2024-10-11 [EN-GB] | [Grasmere, Lake District, Cumbria, England (© joe daniel price/Moment/Getty Images)](https://cn.bing.com/th?id=OHR.GrasmereAutumn2024_EN-GB0406171005_UHD.jpg)
+2024-10-12 [EN-GB] | [Grasmere, Lake District, Cumbria, England (© joe daniel price/Moment/Getty Images)](https://cn.bing.com/th?id=OHR.GrasmereAutumn2024_EN-GB0406171005_UHD.jpg)
 
-2024-10-03 [EN-GB] | [Loch Morlich, Cairngorms National Park, Scotland (© Arterra/Universal Images Group/Getty Images)](https://cn.bing.com/th?id=OHR.NationalPoetryDay2024_EN-GB3553292629_UHD.jpg)
+2024-10-04 [EN-GB] | [Loch Morlich, Cairngorms National Park, Scotland (© Arterra/Universal Images Group/Getty Images)](https://cn.bing.com/th?id=OHR.NationalPoetryDay2024_EN-GB3553292629_UHD.jpg)
 
-2024-10-01 [EN-GB] | [Statue of Mary Seacole, London, England (© Charles Bowman/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.BlackHistoryMonth2024_EN-GB1865178312_UHD.jpg)
+2024-10-02 [EN-GB] | [Statue of Mary Seacole, London, England (© Charles Bowman/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.BlackHistoryMonth2024_EN-GB1865178312_UHD.jpg)
 
-2024-09-14 [EN-GB] | [Royal Albert Hall, Kensington, London (© Katherine Young/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.LastNightOfTheProms2024_EN-GB2327761214_UHD.jpg)
+2024-09-15 [EN-GB] | [Royal Albert Hall, Kensington, London (© Katherine Young/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.LastNightOfTheProms2024_EN-GB2327761214_UHD.jpg)
 
-2024-09-08 [EN-GB] | [Tyne Bridge, England (© Glenn Gibson/iStock/Getty Images)](https://cn.bing.com/th?id=OHR.GreatNorthRun2024_EN-GB4101357995_UHD.jpg)
+2024-09-09 [EN-GB] | [Tyne Bridge, England (© Glenn Gibson/iStock/Getty Images)](https://cn.bing.com/th?id=OHR.GreatNorthRun2024_EN-GB4101357995_UHD.jpg)
 
-2024-08-24 [EN-GB] | [Notting Hill Carnival on August 15, 2009, in London, England (© Dan Kitwood/Getty Images)](https://cn.bing.com/th?id=OHR.NottingHillCarnival2024_EN-GB9324576606_UHD.jpg)
+2024-08-25 [EN-GB] | [Notting Hill Carnival on August 15, 2009, in London, England (© Dan Kitwood/Getty Images)](https://cn.bing.com/th?id=OHR.NottingHillCarnival2024_EN-GB9324576606_UHD.jpg)
 
-2024-08-18 [EN-GB] | [Fresh garlic bulbs for sale at the garlic farm on the Isle of Wight, England (© Steve Hawkins Photography/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.GarlicFestival2024_EN-GB7313189944_UHD.jpg)
+2024-08-19 [EN-GB] | [Fresh garlic bulbs for sale at the garlic farm on the Isle of Wight, England (© Steve Hawkins Photography/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.GarlicFestival2024_EN-GB7313189944_UHD.jpg)
 
 2024-08-09 [EN-GB] | [Clifton Suspension Bridge during the Bristol Balloon Fiesta, Bristol (© robertharding/Adobe Stock)](https://cn.bing.com/th?id=OHR.BristolBalloonFiesta2024_EN-GB5744730173_UHD.jpg)
 
@@ -6747,6 +6819,26 @@
 2022-05-10 [EN-GB] | [Grey seal with laughing expression on a stony beach in Norfolk, England (© the_guitar_mann/iStock/Getty Images Plus/Getty Images)](https://cn.bing.com/th?id=OHR.LaughingSeal_EN-GB7827062892_UHD.jpg)
 
 2022-04-28 [EN-GB] | [Dawn light on Eilean Na Mòine island, Loch Eilt, West Highlands (© Lilly Husbands/Offset)](https://cn.bing.com/th?id=OHR.EileanNaMoine_EN-GB5424366083_UHD.jpg)
+
+2026-09-06 [EN-IN] | [Khairul Manazil, New Delhi (© SoumenNath/E+/Getty Images)](https://cn.bing.com/th?id=OHR.PuranaQila2026_EN-IN6620233403_UHD.jpg)
+
+2026-09-02 [EN-IN] | [The stranded wreck at Surathkal Beach, Karnataka (© Amith Nag Photography/Moment/Getty Images)](https://cn.bing.com/th?id=OHR.SurathkalBeach2026_EN-IN6160079394_UHD.jpg)
+
+2026-08-16 [EN-IN] | [The India Gate, New Delhi (© Arnav Pratap Singh/iStock/Getty Images)](https://cn.bing.com/th?id=OHR.IndependenceDay2026_EN-IN1491568628_UHD.jpg)
+
+2026-07-30 [EN-IN] | [Dhamek Stupa, Sarnath, Varanasi, Uttar Pradesh (© franck metois/Moment/Getty Images)](https://cn.bing.com/th?id=OHR.GuruPurnima2026_EN-IN0332794905_UHD.jpg)
+
+2026-07-17 [EN-IN] | [The Stone Chariot, Hampi, Karnataka (© Alan_Lagadu/iStock/Getty Images)](https://cn.bing.com/th?id=OHR.RathYatra2026_EN-IN7824400350_UHD.jpg)
+
+2026-07-02 [EN-IN] | [Jog Falls on the Sharavathi River, Shivamogga district, Karnataka (© Amith Nag Photography/Moment/Getty Images)](https://cn.bing.com/th?id=OHR.JogFalls2026_EN-IN2533705121_UHD.jpg)
+
+2026-06-22 [EN-IN] | [Colourful sky and clouds reflecting over the Ganges River, Rishikesh (© fbxx/iStock/Getty Images)](https://cn.bing.com/th?id=OHR.InternationalDayOfYoga2026_EN-IN8379810108_UHD.jpg)
+
+2026-06-03 [EN-IN] | [Minarets of Charminar, Hyderabad, Telangana (© RAJARSHI SENGUPTA/iStock/Getty Images)](https://cn.bing.com/th?id=OHR.TelanganaDay2026_EN-IN2729505086_UHD.jpg)
+
+2026-05-02 [EN-IN] | [Kailasa Temple, Ellora Caves, Maharashtra (© mazzzur/iStock/Getty Images)](https://cn.bing.com/th?id=OHR.MaharashtraDay2026_EN-IN0347211798_UHD.jpg)
+
+2026-04-20 [EN-IN] | [Spiti Valley, Himachal Pradesh (© Rahul Wedpathak/500px/Getty Images)](https://cn.bing.com/th?id=OHR.SpitiValley2026_EN-IN0228621600_UHD.jpg)
 
 2026-04-15 [EN-IN] | [Ambedkar Memorial Park, Lucknow, Uttar Pradesh (© Varun Kumar Tiwari/iStock/Getty Images)](https://cn.bing.com/th?id=OHR.AmbedkarJayanti2026_EN-IN3641683791_UHD.jpg)
 
@@ -7083,6 +7175,48 @@
 2022-05-03 [EN-IN] | [Taj Mahal with Milky Way in the background in Agra, India (© Getty Images)](https://cn.bing.com/th?id=OHR.TajMahalSky_EN-IN2591010322_UHD.jpg)
 
 2022-04-29 [EN-IN] | [Elephant herd walking the plains in Jim Corbett National Park in India (© Shutterstock)](https://cn.bing.com/th?id=OHR.ElephantJimCorbett_EN-IN1246798617_UHD.jpg)
+
+2026-09-23 [DE-DE] | [Hobbit-Haus am Filmset von Hobbiton, Matamata, Neuseeland (© djr-photography/Shutterstock)](https://cn.bing.com/th?id=OHR.TolkienWeek_DE-DE1744424672_UHD.jpg)
+
+2026-09-20 [DE-DE] | [Oktoberfest München, Bayern (© FooTToo/Getty Images)](https://cn.bing.com/th?id=OHR.OktoberfestMunich_DE-DE1236844623_UHD.jpg)
+
+2026-09-05 [DE-DE] | [Horizontobservatorium, Halde Hoheward, Herten, Nordrhein-Westfalen (© lilly3/Getty Images)](https://cn.bing.com/th?id=OHR.HorizontHerten_DE-DE6847367698_UHD.jpg)
+
+2026-09-04 [DE-DE] | [Römerberg, historischer Altstadtplatz in Frankfurt am Main (© f11photo/Getty Images)](https://cn.bing.com/th?id=OHR.FrankfurtRomerberg_DE-DE6749197183_UHD.jpg)
+
+2026-08-26 [DE-DE] | [Kitesurfer bei Sonnenuntergang in Deutschland (© Jens Breuer/Getty Images)](https://cn.bing.com/th?id=OHR.KitesurfersSunset_DE-DE3980635203_UHD.jpg)
+
+2026-08-16 [DE-DE] | [Sonnenaufgang an der Seebrücke Sellin, Rügen, Mecklenburg-Vorpommern (© bluejayphoto/Getty Images)](https://cn.bing.com/th?id=OHR.SellinSunrise_DE-DE6501539287_UHD.jpg)
+
+2026-08-09 [DE-DE] | [Rhein in Flammen vor Schloss Stolzenfels bei Koblenz, Rheinland-Pfalz (© Jule_Berlin/Shutterstock)](https://cn.bing.com/th?id=OHR.RhineFlames_DE-DE7527393403_UHD.jpg)
+
+2026-07-31 [DE-DE] | [Braunbärenjunges auf einem Felsen, Bayern (© Raimund Linke/Getty Images)](https://cn.bing.com/th?id=OHR.BearBavaria_DE-DE3681217161_UHD.jpg)
+
+2026-07-26 [DE-DE] | [Fernsehturm am Alexanderplatz mit Regenbogen, Berlin (© fhm/Getty Images)](https://cn.bing.com/th?id=OHR.PrideBerlin_DE-DE3369611592_UHD.jpg)
+
+2026-07-23 [DE-DE] | [Sommer am Eibsee bei Garmisch-Partenkirchen mit Blick auf die Zugspitze, Bayern (© DieterMeyrl/Getty Images)](https://cn.bing.com/th?id=OHR.EibseeSummer_DE-DE7644945564_UHD.jpg)
+
+2026-07-14 [DE-DE] | [München mit der Frauenkirche vor den Alpen, Bayern (© MarcelStrelow/Getty Images)](https://cn.bing.com/th?id=OHR.MunichTwilight_DE-DE5540064188_UHD.jpg)
+
+2026-07-02 [DE-DE] | [Sonnenuntergang über den Weinbergen von Steinhaldenfeld im Neckartal bei Stuttgart, Baden-Württemberg (© Cyril Gosselin/Getty Images)](https://cn.bing.com/th?id=OHR.NeckarVineyards_DE-DE0300601892_UHD.jpg)
+
+2026-06-21 [DE-DE] | [Windjammerparade zur Kieler Woche in Kiel, Schleswig-Holstein (© Snapshot freddy/Shutterstock)](https://cn.bing.com/th?id=OHR.KielSailing_DE-DE0980571166_UHD.jpg)
+
+2026-06-15 [DE-DE] | [Blumengarten auf der Insel Mainau im Bodensee, Baden-Württemberg (© toriru/Shutterstock)](https://cn.bing.com/th?id=OHR.MainauFlowers_DE-DE9640558313_UHD.jpg)
+
+2026-06-07 [DE-DE] | [Plönlein mit Siebersturm und Kobolzeller Tor, Rothenburg ob der Tauber, Bayern (© Harald Nachtmann/Getty Images)](https://cn.bing.com/th?id=OHR.RothenburgPloenlein_DE-DE1102047823_UHD.jpg)
+
+2026-06-01 [DE-DE] | [Rapsfelder vor der Festung Königstein, Sächsische Schweiz, Sachsen (© Frank Bienewald/Getty Images)](https://cn.bing.com/th?id=OHR.RapeseedField_DE-DE3303026116_UHD.jpg)
+
+2026-05-26 [DE-DE] | [Die Hexenlochmühle im Schwarzwald bei Furtwangen, Baden‑Württemberg (© Conny Pokorny/Shutterstock)](https://cn.bing.com/th?id=OHR.HexenlochMill_DE-DE3552158856_UHD.jpg)
+
+2026-05-17 [DE-DE] | [Argus‑Bläuling auf einer Blüte (© Remus86/Getty Images)](https://cn.bing.com/th?id=OHR.ButterflyFlower_DE-DE3210389568_UHD.jpg)
+
+2026-05-15 [DE-DE] | [Löwenmännchen mit Jungtier (© JasonPrince/iStock/Getty Images)](https://cn.bing.com/th?id=OHR.FathersDayItaly_DE-DE9115360587_UHD.jpg)
+
+2026-05-06 [DE-DE] | [Strandkörbe am Ostseestrand von Grömitz, Schleswig‑Holstein (© Sabine Lubenow/Image Professionals GmbH/Alamy)](https://cn.bing.com/th?id=OHR.LuebeckChairs_DE-DE4681131575_UHD.jpg)
+
+2026-04-21 [DE-DE] | [Rathaus St. Johann, Saarbrücken, Saarland (© frantic00/Getty Images)](https://cn.bing.com/th?id=OHR.SaarbrueckenRathaus_DE-DE1197352085_UHD.jpg)
 
 2026-04-19 [DE-DE] | [Eingangsbereich des Kölner Doms, Nordrhein‑Westfalen (© ALFSnaiper/Getty Images)](https://cn.bing.com/th?id=OHR.CathedralCologne_DE-DE0399722778_UHD.jpg)
 
@@ -7506,6 +7640,48 @@
 
 2022-05-02 [DE-DE] | [Blühende Kirschbäume an der Binnenalster, Hamburg (© Kerstin Bittner/Westend61/Offset)](https://cn.bing.com/th?id=OHR.KirschblueteHamburg_DE-DE6208501886_UHD.jpg)
 
+2026-09-19 [ES-ES] | [San Sebastián, Guipúzcoa, País Vasco, España (© Tichr/Getty Images)](https://cn.bing.com/th?id=OHR.SanSebastian_ES-ES7080505846_UHD.jpg)
+
+2026-09-14 [ES-ES] | [Vista general del pelotón durante la 77ª Vuelta a España 2022, Etapa 21, Palacio de Cibeles, Madrid, España (© Europa Press Sports/Getty Images)](https://cn.bing.com/th?id=OHR.LaVueltaEnd_ES-ES2544902517_UHD.jpg)
+
+2026-09-09 [ES-ES] | [Real Monasterio de Nuestra Señora de Guadalupe, Cáceres, Extremadura, España (© Armando Oliveira/Getty Images)](https://cn.bing.com/th?id=OHR.ExtremaduraCaceres_ES-ES8424838072_UHD.jpg)
+
+2026-08-27 [ES-ES] | [Parroquia San Pedro Apóstol, Buñol, España (© Venemama/Getty Images)](https://cn.bing.com/th?id=OHR.TomatinaBunol_ES-ES8709376731_UHD.jpg)
+
+2026-08-23 [ES-ES] | [Vista general del pelotón durante la 77ª Vuelta a España 2022, Etapa 20, Navacerrada, España (© Europa Press Sports/Getty Images)](https://cn.bing.com/th?id=OHR.VueltaEspana_ES-ES4697960673_UHD.jpg)
+
+2026-08-16 [ES-ES] | [Vista de la Catedral y la Alcazaba de Málaga, Andalucía, España (© SeanPavonePhoto/Getty Images)](https://cn.bing.com/th?id=OHR.MalagaFairAgosto_ES-ES2221508269_UHD.jpg)
+
+2026-08-12 [ES-ES] | [Camino de Ronda, Lloret de Mar, Girona, Cataluña (© MEDITERRANEAN/Getty Images)](https://cn.bing.com/th?id=OHR.LloretdeMar_ES-ES9587440947_UHD.jpg)
+
+2026-08-01 [ES-ES] | [Flamencos en el Delta del Ebro, Tarragona, España (© mafrmcfa/Getty Images)](https://cn.bing.com/th?id=OHR.DeltaEbro_ES-ES3023885514_UHD.jpg)
+
+2026-07-28 [ES-ES] | [Veleros cerca de las Islas Cíes en Galicia, España (© AndresGarciaM/Getty Images)](https://cn.bing.com/th?id=OHR.GaliciaSpain_ES-ES2553115650_UHD.jpg)
+
+2026-07-22 [ES-ES] | [Vista aérea de Isla Cristina en Huelva, Andalucía, España (© MEDITERRANEAN/Getty Images)](https://cn.bing.com/th?id=OHR.IslaCristina_ES-ES8480409312_UHD.jpg)
+
+2026-07-08 [ES-ES] | [Vista aérea del paisaje urbano y las dunas de arena en Maspalomas, Gran Canaria, España (© Marco Bottigelli/Getty Images)](https://cn.bing.com/th?id=OHR.GranCanaria_ES-ES7578658409_UHD.jpg)
+
+2026-06-29 [ES-ES] | [Chueca, Madrid, España (© MarioMonte/Getty Images)](https://cn.bing.com/th?id=OHR.PrideChueca_ES-ES4043385731_UHD.jpg)
+
+2026-06-24 [ES-ES] | [Fuegos artificiales en la Noche de San Juan (© rui_noronha/Getty Images)](https://cn.bing.com/th?id=OHR.SanJuanFuegos_ES-ES0457674498_UHD.jpg)
+
+2026-06-14 [ES-ES] | [Castillo de Altafulla, Tarragona (© Mario Marco/Getty Images)](https://cn.bing.com/th?id=OHR.AltafullaTarragona_ES-ES8470758712_UHD.jpg)
+
+2026-06-06 [ES-ES] | [Molinos de Consuegra al amanecer, Castilla-La Mancha (© Paulo Costa/Getty Images)](https://cn.bing.com/th?id=OHR.CastillaLaMancha_ES-ES3536382810_UHD.jpg)
+
+2026-05-31 [ES-ES] | [Vista aérea del Puerto de la Cruz, Tenerife (© Balate Dorin/Getty Images)](https://cn.bing.com/th?id=OHR.TenerifePuerto_ES-ES2845823553_UHD.jpg)
+
+2026-05-17 [ES-ES] | [Cielo entre pinos (© Synoptics/Getty Images)](https://cn.bing.com/th?id=OHR.BosqueCielo_ES-ES4003642577_UHD.jpg)
+
+2026-05-05 [ES-ES] | [Festival de los Patios Cordobeses, Andalucía (© DIEGO GUTIERREZ/Getty Images)](https://cn.bing.com/th?id=OHR.CordobaFestival_ES-ES4539784113_UHD.jpg)
+
+2026-05-03 [ES-ES] | [Monumento a Alfonso XII, Parque del Retiro, Madrid (© By Eve Livesey/Getty Images)](https://cn.bing.com/th?id=OHR.MadridRetiro_ES-ES5384378675_UHD.jpg)
+
+2026-04-24 [ES-ES] | [Rosa roja dentro de un libro abierto (© Albert Cabezas/Getty Images)](https://cn.bing.com/th?id=OHR.SantJordiBook_ES-ES2987257129_UHD.jpg)
+
+2026-04-21 [ES-ES] | [Castañuelas flamencas (© LUNAMARINA/Getty Images)](https://cn.bing.com/th?id=OHR.FlamencoSevilla_ES-ES8411080911_UHD.jpg)
+
 2026-04-14 [ES-ES] | [Cañón Rojo de Teruel, Aragón (© hdibanez/Getty Images)](https://cn.bing.com/th?id=OHR.TeruelSpain_ES-ES8314942173_UHD.jpg)
 
 2026-04-11 [ES-ES] | [La Alhambra vista desde el Albaicín, Granada, Andalucía (© Antonio Violi/Alamy)](https://cn.bing.com/th?id=OHR.AlhambraGranada_ES-ES7908676665_UHD.jpg)
@@ -7671,6 +7847,44 @@
 2024-08-05 [ES-ES] | [Romería Vikinga, Galicia (© Pablo Charlón/GettyImages)](https://cn.bing.com/th?id=OHR.RomeriaVikinga_ES-ES4247544127_UHD.jpg)
 
 2024-08-04 [ES-ES] | [Atardecer en Ribadesella, Asturias, España (© StockPhotoAstur/iStock/GettyImagesPlus)](https://cn.bing.com/th?id=OHR.DescensodelSella_ES-ES4018014092_UHD.jpg)
+
+2026-06-01 [FR-CA] | [Rivière Humber dans la zone de conservation Boyd, Woodbridge, Vaughan, Ontario (© jimfeng/Getty Images)](https://cn.bing.com/th?id=OHR.HumberRiverTrail_FR-CA4592084106_UHD.jpg)
+
+2026-09-21 [FR-FR] | [Château de Castelnaud, Castelnaud-la-Chapelle, Nouvelle-Aquitaine (© garethkirklandphotogrphy/Getty Images)](https://cn.bing.com/th?id=OHR.CastelnaudPatrimoine_FR-FR4352072727_UHD.jpg)
+
+2026-09-06 [FR-FR] | [La Grand’Place, Lille (© Aliaksandr Antanovich/Getty Images)](https://cn.bing.com/th?id=OHR.LillePlace_FR-FR3992764620_UHD.jpg)
+
+2026-08-26 [FR-FR] | [Plage de sable blanc sur l’archipel des Glénan, Bretagne (© HadelProductions/Getty Images)](https://cn.bing.com/th?id=OHR.GlenanSummer_FR-FR4786744371_UHD.jpg)
+
+2026-08-15 [FR-FR] | [Dolmen, La Roche-Aux-Fées, Bretagne (© Michal Boubin/Getty Images)](https://cn.bing.com/th?id=OHR.DolmenRoche_FR-FR1513962303_UHD.jpg)
+
+2026-08-09 [FR-FR] | [Du linge qui sèche aux fenêtres d’une maison, Barjols, Var, Provence-Alpes-Côtes d'Azur (© mammuth/Getty Images)](https://cn.bing.com/th?id=OHR.ClothesBarjols_FR-FR4425384248_UHD.jpg)
+
+2026-08-02 [FR-FR] | [Stacks près de Wilson Creek Beach, False Klamath Cove, Parc national et parcs d’État de Redwood, Californie, États-Unis (© benedek/Getty Images)](https://cn.bing.com/th?id=OHR.SeaStacks_FR-FR4057620009_UHD.jpg)
+
+2026-07-31 [FR-FR] | [Jeunes chacals sauvages dans le Bushveld, Afrique du Sud (© Jeff R Clow/Getty Images)](https://cn.bing.com/th?id=OHR.WildJackalFriends_FR-FR7398331328_UHD.jpg)
+
+2026-07-28 [FR-FR] | [Canoë-kayaks au cœur des gorges du Verdon, Provence-Alpes-Côte d'Azur (© Joran Maaswinkel Fotografie/Getty Images)](https://cn.bing.com/th?id=OHR.VerdonKayaks_FR-FR6935931270_UHD.jpg)
+
+2026-07-17 [FR-FR] | [Cerf sika dans l’herbe, parc de Merlet, Haute-Savoie (© porojnicu/Getty Images)](https://cn.bing.com/th?id=OHR.DeerGrass_FR-FR3634474861_UHD.jpg)
+
+2026-07-15 [FR-FR] | [Feux d’artifice face à la basilique du Sacré-Cœur, Montmartre, Paris (© marc_land/Getty Images)](https://cn.bing.com/th?id=OHR.BastilleSacreCoeur_FR-FR3878699722_UHD.jpg)
+
+2026-06-22 [FR-FR] | [Notre-Dame de Paris et les quais de Seine, Paris (© RudyBalasko/Getty Images)](https://cn.bing.com/th?id=OHR.SeineRiverside_FR-FR9034174472_UHD.jpg)
+
+2026-06-09 [FR-FR] | [Le Panthéon de nuit, Paris (© Don White/Getty Images)](https://cn.bing.com/th?id=OHR.PantheonParisNight_FR-FR5459826291_UHD.jpg)
+
+2026-06-01 [FR-FR] | [Une guéparde et son guépardeau (© hilton123/Getty Images)](https://cn.bing.com/th?id=OHR.CheetahMotherDay_FR-FR3566919266_UHD.jpg)
+
+2026-05-19 [FR-FR] | [Chapeaux de paille dans les tribunes de Roland-Garros, Paris (© Horacio Villalobos/Corbis)](https://cn.bing.com/th?id=OHR.HatsRolandGarros_FR-FR8053000746_UHD.jpg)
+
+2026-05-17 [FR-FR] | [Forêt de bouleaux, Bourgogne (© Wenphotos/Alamy)](https://cn.bing.com/th?id=OHR.BirchForest_FR-FR7115403118_UHD.jpg)
+
+2026-05-13 [FR-FR] | [Des chaises attendent l'arrivée des célébrités et des cinéphiles au Festival de Cannes (© Christopher Furlong/Getty Images)](https://cn.bing.com/th?id=OHR.ChairsCannes_FR-FR7320484740_UHD.jpg)
+
+2026-05-02 [FR-FR] | [Brin de muguet, Ukraine (© tomch/Getty Images Plus)](https://cn.bing.com/th?id=OHR.LilyMay_FR-FR4501325006_UHD.jpg)
+
+2026-04-25 [FR-FR] | [Flamant rose, Aigues-Mortes (© EyeEm Mobile GmbH/Getty Images Plus)](https://cn.bing.com/th?id=OHR.FlamingoAiguesMortes_FR-FR6537694195_UHD.jpg)
 
 2026-04-19 [FR-FR] | [Vue aérienne du Viaduc de Millau (© Sergi Reboredo/Alamy)](https://cn.bing.com/th?id=OHR.MillauViaductFrance_FR-FR3718442345_UHD.jpg)
 
@@ -7839,8 +8053,6 @@
 2024-09-03 [FR-FR] | [Les Pénitents des Mées, Alpes-de-Haute-Provence (© Cavalier Michel/Hemis/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.PenitentMees_FR-FR9818550884_UHD.jpg)
 
 2024-08-26 [FR-FR] | [Reflet du ciel sur le lac Blanc, Alpes françaises, Monte Bianco en arrière-plan, Chamonix (© Smitt/Getty Image)](https://cn.bing.com/th?id=OHR.TrailMontBlanc_FR-FR5602937641_UHD.jpg)
-
-2024-08-17 [FR-FR] | [Papillon et fleur de lavande au lever du soleil, France (© Konstanttin/Getty Images)](https://cn.bing.com/th?id=OHR.ButterflyFlower_FR-FR4834672236_UHD.jpg)
 
 2024-08-14 [FR-FR] | [Citadelle de Port Louis, Lorient, Morbihan, France (© Philippe TURPIN/Getty Images)](https://cn.bing.com/th?id=OHR.LorientCelticFestival_FR-FR2950316084_UHD.jpg)
 
@@ -8050,6 +8262,46 @@
 
 2022-05-17 [FR-FR] | [Le court Philippe Chatrier au stade Roland-Garros, Paris (© CTK/Alamy Stock Photo)](https://cn.bing.com/th?id=OHR.RG2022_FR-FR3111283418_UHD.jpg)
 
+2026-09-24 [IT-IT] | [Chiesa in Val di Funes, Trentino-Alto Adige, Dolomiti, Italia (© DieterMeyrl/Getty Images)](https://cn.bing.com/th?id=OHR.AutumnTrentino_IT-IT8118999546_UHD.jpg)
+
+2026-09-20 [IT-IT] | [A Borgo Marinari, sul Golfo di Napoli, Campania, Italia (© Siegfried Schnepf/Getty Images)](https://cn.bing.com/th?id=OHR.BorgoMarinari_IT-IT7423218886_UHD.jpg)
+
+2026-09-12 [IT-IT] | [Castelmezzano, provincia di Potenza in Basilicata, Italia (© Sean Pavone/Getty Images)](https://cn.bing.com/th?id=OHR.Castelmezzano_IT-IT4140249349_UHD.jpg)
+
+2026-09-07 [IT-IT] | [Regata Storica di Venezia, Venezia, Italia (© Javen/Shutterstock)](https://cn.bing.com/th?id=OHR.RegataStoricaVen_IT-IT3438860394_UHD.jpg)
+
+2026-09-02 [IT-IT] | [Vista aerea del Fiordo di Furore, Costiera Amalfitana, Italia (© Artur Debat/Getty Images)](https://cn.bing.com/th?id=OHR.CapodannoBizantino_IT-IT2305233649_UHD.jpg)
+
+2026-08-23 [IT-IT] | [Torre Sant'Andrea, Salento, Puglia, Italia (© Balate.Dorin/Shutterstock)](https://cn.bing.com/th?id=OHR.NotteTaranta_IT-IT0811899295_UHD.jpg)
+
+2026-08-16 [IT-IT] | [Cala Spinosa, Capo Testa, Santa Teresa di Gallura, Sardegna, Italia (© Francesco Riccardo Iacomino/Moment/Getty Images)](https://cn.bing.com/th?id=OHR.EstateItaliana_IT-IT7841784337_UHD.jpg)
+
+2026-08-11 [IT-IT] | [Il Lago di Carezza nelle Dolomiti all'alba, Bolzano, Italia (© Putt Sakdhnagool/Moment/Getty Images)](https://cn.bing.com/th?id=OHR.DolomitiAgosto_IT-IT3030401591_UHD.jpg)
+
+2026-08-01 [IT-IT] | [Cielo colorato al tramonto sopra barche a vela ormeggiate, Isole Eolie, Messina, Sicilia, Italia (© Paolo Graziosi/E+/Getty Images)](https://cn.bing.com/th?id=OHR.IsoleEolie_IT-IT8736401041_UHD.jpg)
+
+2026-07-26 [IT-IT] | [Il Faro Mangiabarche, Sant'Antioco, Sulcis, Sardegna (© Francesco Riccardo Iacomino/Getty Images)](https://cn.bing.com/th?id=OHR.SardegnaFaro_IT-IT8009785446_UHD.jpg)
+
+2026-07-19 [IT-IT] | [Le case colorate di Burano, Venezia, Veneto, Italia (© Nick Brundle Photography/Getty Images)](https://cn.bing.com/th?id=OHR.FestaVenezia_IT-IT8709585056_UHD.jpg)
+
+2026-07-03 [IT-IT] | [Palio di Siena, Italia (© Dave Benett/Getty Images)](https://cn.bing.com/th?id=OHR.SienaPalioToscana_IT-IT6720555051_UHD.jpg)
+
+2026-06-30 [IT-IT] | [Castel Sant’Angelo, Roma (© Domenico Cippitelli/NurPhoto via Getty Images)](https://cn.bing.com/th?id=OHR.SanPietroPaolo_IT-IT6089431696_UHD.jpg)
+
+2026-06-22 [IT-IT] | [Barche a vela tradizionali, Porto Canale Leonardesco, Cesenatico, Emilia-Romagna (© Francesco Riccardo Iacomino/Getty Images)](https://cn.bing.com/th?id=OHR.Cesenatico_IT-IT1478062900_UHD.jpg)
+
+2026-06-03 [IT-IT] | [Colonna Traiana, Roma, Lazio (© Domingo Leiva/Moment/Getty Images)](https://cn.bing.com/th?id=OHR.ItaliaRepubblica_IT-IT5373102949_UHD.jpg)
+
+2026-05-26 [IT-IT] | [Villa Adriana, Tivoli, Lazio (© SeanSavonePhoto/Adobe Stock)](https://cn.bing.com/th?id=OHR.TivoliVillaAdriana_IT-IT5000773432_UHD.jpg)
+
+2026-05-16 [IT-IT] | [Lenticchie in fiore, Castelluccio di Norcia, Perugia, Umbria (© Rudolf Ernst/iStock/Getty Images)](https://cn.bing.com/th?id=OHR.LenticchieNorcia_IT-IT5069422241_UHD.jpg)
+
+2026-05-11 [IT-IT] | [Madre picchio nero che nutre i piccoli (© Paolino Massimiliano Manuel/iStock/Getty Images)](https://cn.bing.com/th?id=OHR.BlackWoodpeck_IT-IT3489847449_UHD.jpg)
+
+2026-05-09 [IT-IT] | [Giro d’Italia (© LUK BENIES/Stringer/Getty Images)](https://cn.bing.com/th?id=OHR.GiroItaliaBici_IT-IT3447077105_UHD.jpg)
+
+2026-04-22 [IT-IT] | [Piazza del Campidoglio, Roma, Lazio (© Deejpilot/iStock/Getty Images)](https://cn.bing.com/th?id=OHR.BirthdayRome_IT-IT3327641807_UHD.jpg)
+
 2026-04-17 [IT-IT] | [Colline ondulate al tramonto, Toscana (© StevanZZ/Getty Images)](https://cn.bing.com/th?id=OHR.ToscanaSpring_IT-IT2623065946_UHD.jpg)
 
 2026-04-07 [IT-IT] | [Rione V Ponte, Roma (© Alexander Spatari/Momento/Getty Images)](https://cn.bing.com/th?id=OHR.CarbonaraRoma_IT-IT1787234049_UHD.jpg)
@@ -8057,8 +8309,6 @@
 2026-03-31 [IT-IT] | [Lago Federa, Cortina d'Ampezzo, Belluno, Veneto (© Elena-studio/iStock)](https://cn.bing.com/th?id=OHR.DolomitiSpring_IT-IT3295923422_UHD.jpg)
 
 2026-03-26 [IT-IT] | [Cattedrale Santa Maria del Fiore, Firenze, Toscana (© Lindrik/iStock/Getty Images Plus)](https://cn.bing.com/th?id=OHR.DanteDay_IT-IT4553177654_UHD.jpg)
-
-2026-03-20 [IT-IT] | [Leone con prole (© JasonPrince/iStock)](https://cn.bing.com/th?id=OHR.FathersDayItaly_IT-IT6801495105_UHD.jpg)
 
 2026-03-09 [IT-IT] | [Mimosa (© d!g!tALE by Alessandro Ciabini/Moment)](https://cn.bing.com/th?id=OHR.FestaDellaDonna_IT-IT6097435290_UHD.jpg)
 
@@ -8401,6 +8651,50 @@
 2022-06-23 [IT-IT] | [Fontanon di Goriuda (© Federica Cattaruzzi/Shutterstock)](https://cn.bing.com/th?id=OHR.FontanonGoriuda_IT-IT6720392674_UHD.jpg)
 
 2022-06-05 [IT-IT] | [Sentieri aggrovigliati di via Krupp, Capri (© Mikolajn/Getty Images)](https://cn.bing.com/th?id=OHR.CapriViaKrupp_IT-IT4698989617_UHD.jpg)
+
+2026-09-24 [JA-JP] | [秋の七草のナデシコ (© igaguri_1/Getty Images)](https://cn.bing.com/th?id=OHR.Japan7Flower2026_JA-JP7430731593_UHD.jpg)
+
+2026-09-15 [JA-JP] | [川辺のコスモス (© iplan/a.collectionRF/Getty Images)](https://cn.bing.com/th?id=OHR.Cosmos2026_JA-JP5810317842_UHD.jpg)
+
+2026-09-10 [JA-JP] | [菊の花 (© yanjf/Getty Images)](https://cn.bing.com/th?id=OHR.ChungYang2026_JA-JP4920316432_UHD.jpg)
+
+2026-08-30 [JA-JP] | [全国花火競技大会, 秋田県, 大仙市 (© Toru Hanai/Getty Images)](https://cn.bing.com/th?id=OHR.OmagariFireworks2026_JA-JP0416831919_UHD.jpg)
+
+2026-08-24 [JA-JP] | [夏の森を潤す清流, 静岡県 (© Keiji Komatsu/AFLO/Getty Images)](https://cn.bing.com/th?id=OHR.ShizuokaSummer2026_JA-JP8848642076_UHD.jpg)
+
+2026-08-15 [JA-JP] | [下田港, 静岡県 下田市 (© Sean Pavone/Getty Images)](https://cn.bing.com/th?id=OHR.Shimoda2026_JA-JP6266826592_UHD.jpg)
+
+2026-08-12 [JA-JP] | [日本アルプス (© Sergey Alimov/Getty Images)](https://cn.bing.com/th?id=OHR.MountainDay2026_JA-JP4675980762_UHD.jpg)
+
+2026-08-07 [JA-JP] | [広島平和記念公園のとうろう流し, 広島県 広島市 (© Buddhika Weerasinghe/Stringer/Getty Images)](https://cn.bing.com/th?id=OHR.HiroshimaPeaceMemorial2026_JA-JP7778121397_UHD.jpg)
+
+2026-08-02 [JA-JP] | [変わり種の金魚ねぷた, 青森県 弘前市 (© David Parker/Alamy)](https://cn.bing.com/th?id=OHR.HirosakiNeputa2026_JA-JP5726503053_UHD.jpg)
+
+2026-07-22 [JA-JP] | [川越氷川神社, 埼玉県 川越市 (© kudosstudio/Adobe)](https://cn.bing.com/th?id=OHR.Kawagoe2026_JA-JP2060864918_UHD.jpg)
+
+2026-07-18 [JA-JP] | [八坂神社の神紋が描かれた提灯, 京都府 京都市 (© Felix Choo/Alamy)](https://cn.bing.com/th?id=OHR.GionFestival2026_JA-JP0488381919_UHD.jpg)
+
+2026-07-08 [JA-JP] | [七夕まつりの吹き流し, 宮城県 仙台市 (© kororokerokero/Getty Images)](https://cn.bing.com/th?id=OHR.Tanabata2026_JA-JP9678732410_UHD.jpg)
+
+2026-06-28 [JA-JP] | [あじさいの花房, 岩手県 奥州市 (© nattya3714/Getty Images)](https://cn.bing.com/th?id=OHR.Ajisai2026_JA-JP5953428145_UHD.jpg)
+
+2026-06-26 [JA-JP] | [ラベンダー畑, 北海道 中富良野町 (© Weiheng Pan/Getty Images Plus)](https://cn.bing.com/th?id=OHR.LavenderSeason2026_JA-JP7050134160_UHD.jpg)
+
+2026-06-14 [JA-JP] | [はやぶさ 2 から切り離されたカプセル (© MORGAN SETTE/Getty Images)](https://cn.bing.com/th?id=OHR.HayabusaDay2026_JA-JP6590656546_UHD.jpg)
+
+2026-06-12 [JA-JP] | [蛍の光がきらめく森, 日本 (© tdub303/Getty Images)](https://cn.bing.com/th?id=OHR.FireflySeason2026_JA-JP9350920903_UHD.jpg)
+
+2026-06-03 [JA-JP] | [みなとみらい 21 地区, 神奈川県 横浜市 (© simpletun/Shutterstock)](https://cn.bing.com/th?id=OHR.YokohamaPort2026_JA-JP8907488905_UHD.jpg)
+
+2026-05-23 [JA-JP] | [東京スカイツリー, 東京 (© GoranQ/Getty Images)](https://cn.bing.com/th?id=OHR.TokyoSkyTreeDay2026_JA-JP8960437090_UHD.jpg)
+
+2026-05-19 [JA-JP] | [国立科学博物館, 東京 (© cowardlion/Shutterstock)](https://cn.bing.com/th?id=OHR.MuseumDay2026_JA-JP8089592575_UHD.jpg)
+
+2026-05-06 [JA-JP] | [姫の沢公園, 静岡県 熱海市 (© SKY Stock/Shutterstock)](https://cn.bing.com/th?id=OHR.ChildrensDay2026_JA-JP4339103590_UHD.jpg)
+
+2026-05-03 [JA-JP] | [和束の茶畑, 京都府 和束町 (© Tuul and Bruno Morandi/Alamy)](https://cn.bing.com/th?id=OHR.HachijyuHachiya2026_JA-JP2065177671_UHD.jpg)
+
+2026-04-30 [JA-JP] | [国会議事堂, 東京都 (© Hiroshi Watanabe/Getty images)](https://cn.bing.com/th?id=OHR.ShowaEraDay2026_JA-JP3778600248_UHD.jpg)
 
 2026-04-16 [JA-JP] | [芝桜, 山梨県 (© DoctorEgg/Getty images)](https://cn.bing.com/th?id=OHR.Shibazakura2026_JA-JP4532713069_UHD.jpg)
 
@@ -8766,6 +9060,48 @@
 
 2022-05-03 [JA-JP] | [和束の茶畑, 京都 (© Tuul and Bruno Morandi/Alamy Stock)](https://cn.bing.com/th?id=OHR.Hatchju22_JA-JP1631111050_UHD.jpg)
 
+2026-09-12 [PT-BR] | [Araras-vermelhas, América do Sul (© markes51/Getty Images)](https://cn.bing.com/th?id=OHR.RedMacaws_PT-BR5164998297_UHD.jpg)
+
+2026-09-08 [PT-BR] | [Esquadrilha da Fumaça no desfile do Dia da Independência em Brasília, 2023 (© EVARISTO SA/Getty Images)](https://cn.bing.com/th?id=OHR.IndependenceBR_PT-BR8326749510_UHD.jpg)
+
+2026-08-25 [PT-BR] | [Parque Nacional dos Lençóis Maranhenses, Maranhão (© Ignacio Palacios/Getty Images)](https://cn.bing.com/th?id=OHR.Lencois_PT-BR9491147631_UHD.jpg)
+
+2026-08-23 [PT-BR] | [Integrantes da Salgueiro na Marquês de Sapucaí em 2022, Rio de Janeiro (© MAURO PIMENTEL/Getty Images)](https://cn.bing.com/th?id=OHR.FolkRJ_PT-BR6598036806_UHD.jpg)
+
+2026-08-12 [PT-BR] | [Real Gabinete Português de Leitura, Rio de Janeiro, Rio de Janeiro (© Pulsar Imagens/Alamy)](https://cn.bing.com/th?id=OHR.StuDay_PT-BR3798231635_UHD.jpg)
+
+2026-08-11 [PT-BR] | [Golfinhos-rotadores no mar azul de Fernando de Noronha, Pernambuco (© cabuscaa/Getty Images)](https://cn.bing.com/th?id=OHR.Golfinhos_PT-BR2634808905_UHD.jpg)
+
+2026-08-02 [PT-BR] | [Ornamentos, cores e detalhes do Maracatu Rural, Pernambuco (© FerreiraSilva/Getty Images)](https://cn.bing.com/th?id=OHR.Maracatu_PT-BR9312687500_UHD.jpg)
+
+2026-07-31 [PT-BR] | [Pedra Furada em Jericoacoara, Ceará (© Brendan van Son/Shutterstock)](https://cn.bing.com/th?id=OHR.Furada_PT-BR7092103592_UHD.jpg)
+
+2026-07-20 [PT-BR] | [Vista aérea de jovens jogando futebol em um campo de terra em uma comunidade do Rio de Janeiro, RJ (© Tom Wilde/Getty Images)](https://cn.bing.com/th?id=OHR.SoccerDay_PT-BR5859476382_UHD.jpg)
+
+2026-07-16 [PT-BR] | [Saíra-sete-cores pousada em um galho em São Paulo (© Juan Carlos Vindas/Getty Images)](https://cn.bing.com/th?id=OHR.Tanager_PT-BR3453059902_UHD.jpg)
+
+2026-07-07 [PT-BR] | [Sempre-viva, ou chuveirinho, no Cerrado, Parque Estadual do Jalapão, Tocantins (© Caio Pederneiras/Getty Images)](https://cn.bing.com/th?id=OHR.PepJalapao_PT-BR2714528924_UHD.jpg)
+
+2026-06-27 [PT-BR] | [Integrantes do Bloco Boi Faceiro na celebração do bumba-meu-boi, São Caetano de Odivelas, Pará (© Pedro Vilela/Stringer/Getty Images)](https://cn.bing.com/th?id=OHR.Parintins_PT-BR8364769128_UHD.jpg)
+
+2026-06-26 [PT-BR] | [Parque Ibirapuera, São Paulo, estado de São Paulo (© Brasil2/Getty Images)](https://cn.bing.com/th?id=OHR.IbiSP_PT-BR5842175553_UHD.jpg)
+
+2026-06-13 [PT-BR] | [Casal de rãs-leitosas-da-amazônia, ou pererecas-de-leite (© Lauren Suryanata/Shutterstock)](https://cn.bing.com/th?id=OHR.ValentineFrog_PT-BR1899609261_UHD.jpg)
+
+2026-06-11 [PT-BR] | [Coruja-buraqueira em sentinela (© Wendy/Jeff Sparks/Torquemada/Getty Images)](https://cn.bing.com/th?id=OHR.BOwl_PT-BR4099408173_UHD.jpg)
+
+2026-06-02 [PT-BR] | [Bandeirinhas de Festa Junina, Aracaju, Sergipe (© Carlos Maranhao/Getty Images)](https://cn.bing.com/th?id=OHR.Junina_PT-BR7043034952_UHD.jpg)
+
+2026-05-25 [PT-BR] | [Frutos de café em fazenda no Brasil (© Murilo Gualda/Getty Images)](https://cn.bing.com/th?id=OHR.CoffeeDay_PT-BR1198680562_UHD.jpg)
+
+2026-05-17 [PT-BR] | [Cânion do Buracão, Ibicoara, Chapada Diamantina, Bahia (© Celia Hueck/Getty Images)](https://cn.bing.com/th?id=OHR.Buracao_PT-BR7518499247_UHD.jpg)
+
+2026-05-08 [PT-BR] | [Cambacica pousada em uma flor de bananeira, Ubatuba, São Paulo (© Alex Saberi/Getty Images)](https://cn.bing.com/th?id=OHR.Bananaquit_PT-BR8722522620_UHD.jpg)
+
+2026-05-02 [PT-BR] | [Limpadores de janelas pendurados por cordas, Rio de Janeiro (© Buena Vista Images/Getty Images)](https://cn.bing.com/th?id=OHR.WorkersDay_PT-BR3502974851_UHD.jpg)
+
+2026-04-20 [PT-BR] | [Cocar artesanal de povo indígena brasileiro (© Felipe Gustavo S Borges/Getty Images)](https://cn.bing.com/th?id=OHR.InDay_PT-BR0410116846_UHD.jpg)
+
 2026-04-09 [PT-BR] | [Orquídea Denphal (© Rui Santos/Getty Images)](https://cn.bing.com/th?id=OHR.Denphal_PT-BR0145708370_UHD.jpg)
 
 2026-04-06 [PT-BR] | [Esculturas de Aleijadinho na Basílica do Bom Jesus de Matozinhos, Congonhas, Minas Gerais (© Pulsar Imagens/Alamy)](https://cn.bing.com/th?id=OHR.Easter_PT-BR6932429593_UHD.jpg)
@@ -8777,8 +9113,6 @@
 2026-03-19 [PT-BR] | [Vista aérea do Rio Negro, Parque Nacional dos Lençóis Maranhenses, Maranhão (© Ignacio Palacios/Getty Images)](https://cn.bing.com/th?id=OHR.AerialLencois_PT-BR2485824651_UHD.jpg)
 
 2026-03-15 [PT-BR] | [Acarás-bandeira amarelos, Brasil (© Gregory_DUBUS/iStock/Getty Images Plus)](https://cn.bing.com/th?id=OHR.AnimalDay_PT-BR1131499821_UHD.jpg)
-
-2026-03-08 [PT-BR] | [Espreguiçadeiras na praia de Vai, Creta, Grécia (© borchee/Getty Images)](https://cn.bing.com/th?id=OHR.VaiUmbrellas_PT-BR0607622385_UHD.jpg)
 
 2026-03-02 [PT-BR] | [Bondinho e Pão de Açúcar no Rio de Janeiro (© tokar/Shutterstock)](https://cn.bing.com/th?id=OHR.AnivRio_PT-BR3855636507_UHD.jpg)
 
@@ -8933,6 +9267,16 @@
 2024-08-12 [PT-BR] | [Garça-tigre-ruiva (Tigrisoma lineatum) adulta e filhote no ninho, Mato Grosso, Pantanal (© Ben Cranke/Minden)](https://cn.bing.com/th?id=OHR.DiadosPais_PT-BR1045421907_UHD.jpg)
 
 2024-08-05 [PT-BR] | [Diversos Preguiças-de-três-dedos, Amazônia, Brasil (© Gerald & Marc/Superstock)](https://cn.bing.com/th?id=OHR.DiaInternacionaldosAvos_PT-BR2289016069_UHD.jpg)
+
+2026-09-24 [ZH-CN] | [地坛公园秋日美景，北京，中国 (© by Wei/Adobestock)](https://cn.bing.com/th?id=OHR.AutumnEquinoxY26_ZH-CN7957453091_UHD.jpg)
+
+2026-08-24 [ZH-CN] | [在处暑时节的村庄田野与寺庙佛塔，江阴市，江苏省，中国 (© jia yu/Getty Images)](https://cn.bing.com/th?id=OHR.EndofHeatY26_ZH-CN8936468848_UHD.jpg)
+
+2026-06-20 [ZH-CN] | [湖中的龙舟，中国 (©  Zhonghui Bao/Getty Images)](https://cn.bing.com/th?id=OHR.DragonBoatFestivalY26_ZH-CN3070279417_UHD.jpg)
+
+2026-05-06 [ZH-CN] | [莲花与莲花植株 (© real444/Getty Images)](https://cn.bing.com/th?id=OHR.BeginningofSummerY26_ZH-CN7628545617_UHD.jpg)
+
+2026-05-02 [ZH-CN] | [中国的长城 (© aphotostory/Getty Images)](https://cn.bing.com/th?id=OHR.MayLaborDayY26_ZH-CN7554485395_UHD.jpg)
 
 2026-03-21 [ZH-CN] | [春日樱花，上海，中国 (© junyyeung/Getty Images)](https://cn.bing.com/th?id=OHR.SpringEquinoxY26_ZH-CN7450181382_UHD.jpg)
 
